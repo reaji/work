@@ -160,6 +160,7 @@ a{
   width: 620px;
   /*max-height: 310px;*/
   margin: 0 auto;
+  cursor: pointer;
 }
 
 .detailsm{
@@ -182,16 +183,50 @@ a{
 }
 
 .deslink{
-  transition:0.3s;
+  transition:0.3s ease-in-out;
   border-radius: 5px;
 }
 
 .deslink:hover{
   /*text-decoration: underline;*/
-  transition:0.3s;
+  transition:0.3s ease-in-out;
   font-weight: 700;
+  -ms-transform: scale(1.2); /* IE 9 */
+  -webkit-transform: scale(1.2); /* Safari */
+  transform: scale(1.2);
   /*box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2);*/ 
 }
+
+.sharelink:hover{
+  transition:0.5s ease-in-out;
+  -ms-transform: scale(1.2); /* IE 9 */
+  -webkit-transform: scale(1.2); /* Safari */
+  transform: scale(1.2);
+}
+
+.projectsharef .comp{
+  height: 11.5px;
+}
+
+.projectsharein .comp{
+  height: 11.5px;
+}
+
+.sharelink{
+  transition:0.5s ease-in-out;
+}
+
+/*.projectsharet:hover{
+  color:#55acee;
+}
+
+.projectsharef:hover{
+  color: #3b5998;
+}
+
+.projectsharein:hover{
+  color:#55acee;
+}*/
 
 .deslink:active{
   box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0);
@@ -204,7 +239,6 @@ table, td, th {
     border-collapse: collapse;
     margin: 0 auto;
     overflow: hidden;
-    cursor: pointer;
 }
 
 table {

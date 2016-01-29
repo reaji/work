@@ -1,0 +1,363 @@
+/** Thin */
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 200;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-thin-webfont.woff");
+}
+
+/** Regular */
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 400;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
+}
+
+/** Medium */
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 500;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-medium-webfont.woff");
+}
+
+/** Semi Bold */
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 600;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-semibold-webfont.woff");
+}
+
+/** Bold */ 
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 700;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-bold-webfont.woff");
+}
+
+* {
+    font-family: 'San Francisco', sans-serif;  
+}
+
+*::-webkit-scrollbar { 
+  display: none;
+}
+
+html, body{
+	margin: 0;
+  height: 100%;
+}
+
+
+#content{
+	position: relative;
+	overflow-x:hidden; 
+  animation: accessin4 3s ease-in-out;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+/*navvvvvvvvvvvvvvvvvvvvvvvvv*/
+
+#nav{
+	position: relative;
+	top:10px;
+  margin: 0 auto;
+  width: 500px;
+  height: 43px;
+}
+
+
+.title{
+	font-size: 26pt;
+	font-weight: 700;
+	text-align: center;
+	letter-spacing: 6px;
+	margin: 0 auto;
+  width: 222px;
+  cursor: pointer;
+  color: white;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+
+
+
+.manu{
+    display: block;
+    font-size: 1.17em;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-size: 12pt;
+    font-weight: 500;
+    margin: 0 auto;
+    letter-spacing: 0.6px;
+    color: white;
+}
+
+.manu.about{
+  position: absolute;
+  top:12px;
+  left: 10px;
+  height: 21px;
+  cursor: pointer;
+  text-align: right;
+
+}
+
+.manu.about:hover{
+  border-bottom: 1px solid white;
+  color: white;
+}
+
+
+.manu.works:hover{
+  border-bottom: 1px solid white;
+  color: white;
+}
+
+
+
+.manu.works{
+  position: absolute;
+  top:12px;
+  right: 10px;
+  height: 21px;
+  cursor: pointer;
+
+}
+/*navvvvvvvvvvvvvvvvvvvvvvvvv ennnnnnnnds*/
+
+.showcase{
+  width: 100%;
+}
+
+.comp{
+  height: 10px;
+}
+
+h1{
+  font-size: 26pt;
+  font-weight: 700;
+  letter-spacing: 6px;
+  margin: 0 auto;
+}
+
+h2{
+  font-size: 18pt;
+  font-weight: 600;
+  letter-spacing: 3px;
+  margin: 0 auto;
+}
+
+h3{
+  font-size: 14pt;
+  font-weight: 400;
+  margin: 0 auto;
+  letter-spacing: 0.6px;
+}
+
+h4{
+  font-size: 12pt;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  margin: 0 auto;
+}
+
+h6{
+  font-size: 10pt;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  margin: 2px auto 15px;
+  color: grey;
+}
+
+p{
+  font-size: 10pt;
+  font-weight: 400;
+  margin: 0 auto;
+  letter-spacing: 0.5px;
+  line-height: 150%;
+}
+
+/*mybutttttttttttttttttttttttttttt*/
+#mybutt{
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  height: 20px;
+  /*margin-bottom: -3px;*/
+  /*background: #333;*/
+/*  border-top: .08em solid #444;
+  border-bottom: 1px solid #444 outset;*/
+/*  opacity: 0.95;*/
+}
+
+.mycopyright{
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 160px;
+  height: 20px;
+  text-align: center;
+  /*border-right: .08em solid #444;*/
+}
+
+/*.mycopyright:hover{
+  background: #444;
+}*/
+
+.mycopyright a:hover{
+  text-decoration: none;
+  color: black;
+}
+
+.mycopyright .myrightfont{
+  font-size: 8.5pt;
+  vertical-align: 1.5px;
+  /*line-height: 10px;*/
+  color:#999;
+}
+
+.mycopyright .myrightfont .mycopyrightc{
+  font-size: 8.5pt;
+  
+}
+
+.mysharebuttom1{
+  position: absolute;
+  right:0;
+  top: 0;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  font-weight: 900;
+  color: #777;
+  cursor: pointer;
+}
+
+.mysharebuttom1:hover{
+  color: white;
+  background: #3b5998;
+}
+
+.mysharebuttom2{
+  position: absolute;
+  right:20px;
+  top: 0;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  font-weight: 900;
+  color: #777;
+  cursor: pointer;
+}
+
+.mysharebuttom2:hover{
+  color: white;
+/*  background: #36465d;*/
+  background:#55acee;
+
+}
+
+.mysharebuttom3{
+  position: absolute;
+  right:40px;
+  top: 0;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  font-weight: 900;
+  color: #777;
+  cursor: pointer;
+}
+
+.mysharebuttom3:hover{
+  color: white;
+  background: #3f729b;
+}
+
+.mysharebuttom4{
+  position: absolute;
+  right:60px;
+  top: 0;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  font-weight: 900;
+  color: #777;
+  cursor: pointer;
+}
+
+.mysharebuttom4:hover{
+  color: white;
+  background: #55acee;
+
+}
+
+
+
+
+@media screen and (max-width: 1000px) {
+
+#content{
+  width: 100%;
+}
+
+
+#mybutt{position: relative;}
+
+}
+
+
+@media screen and (max-width: 1025px) {
+.mysharebuttom1{color: #3b5998;}
+
+
+.mysharebuttom2{color: #55acee;}
+
+
+.mysharebuttom3{color: #3f729b;}
+
+}
+
+@media screen and (max-width: 768px) {
+
+
+}
+
+
+@media screen and (max-width: 520px) {
+#nav{
+  width: 225px;
+  height: 86px;
+}
+
+
+
+.manu.about{
+  position: absolute;
+  top:40px;
+  left: 5px;
+
+}
+
+.manu.works{
+  position: absolute;
+  top:40px;
+  right: 8px;
+
+}
+
+}
+
+@media screen and (max-width: 350px) {}
+
+
+
+
+
