@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1000px" height="296px" viewBox="0 0 1000 296" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Companionship" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Group" sketch:type="MSLayerGroup">
+            <rect id="Rectangle-14" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="1000" height="296"></rect>
+            <rect id="Rectangle-15-Copy" fill="#E9E9E9" sketch:type="MSShapeGroup" x="274" y="0" width="262" height="271"></rect>
+            <rect id="Rectangle-15-Copy-2" fill="#E9E9E9" sketch:type="MSShapeGroup" x="790" y="1" width="155" height="271"></rect>
+            <path d="M100,254.710258 C100,254.710258 328.5,259.920515 466.5,122.210258 C604.5,-15.4999998 692,129.999999 692,129.999999 C692,129.999999 760.197531,224.231111 839.209772,244.4379 C848.666247,246.856322 858.757494,248.210257 869.5,248.210258 C881.230347,248.210259 899.5,248 899.5,248" id="Path-2" stroke="#363636" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M77.5,271 L944.546712,271" id="Path-3" stroke="#979797" stroke-width="2" stroke-linecap="round" stroke-dasharray="1,10" sketch:type="MSShapeGroup"></path>
+            <path d="M78,271 L78,0.5" id="Path-4" stroke="#979797" stroke-width="2" stroke-linecap="round" stroke-dasharray="1,10" sketch:type="MSShapeGroup"></path>
+            <text id="Intro-letter" sketch:type="MSTextLayer" font-family="SF UI Display" font-size="24" font-weight="420" fill="#1A1918">
+                <tspan x="124" y="40">Intro letter</tspan>
+            </text>
+            <text id="Talk-to-other-charac" sketch:type="MSTextLayer" font-family="SF UI Display" font-size="24" font-weight="420" fill="#1A1918">
+                <tspan x="283" y="40">Talk to other character,</tspan>
+                <tspan x="283" y="69">reveal stories.</tspan>
+            </text>
+            <text id="Talk-to-Mojica" sketch:type="MSTextLayer" font-family="SF UI Display" font-size="24" font-weight="420" fill="#1A1918">
+                <tspan x="595" y="40">Talk to Mojica</tspan>
+            </text>
+            <text id="Returen-letter" sketch:type="MSTextLayer" font-family="SF UI Display" font-size="24" font-weight="420" fill="#1A1918">
+                <tspan x="795" y="40">Returen letter</tspan>
+            </text>
+            <text id="Tension" sketch:type="MSTextLayer" transform="translate(65.000000, 126.000000) rotate(-90.000000) translate(-65.000000, -126.000000) " font-family="SF Compact Display" font-size="20" font-style="condensed" font-weight="260" sketch:alignment="middle" fill="#1A1918">
+                <tspan x="32.1435547" y="133">Tension</tspan>
+            </text>
+            <text id="Time" sketch:type="MSTextLayer" font-family="SF Compact Display" font-size="20" font-style="condensed" font-weight="260" sketch:alignment="middle" fill="#1A1918">
+                <tspan x="79.2285156" y="291">Time</tspan>
+            </text>
+            <text id="Inciting" sketch:type="MSTextLayer" font-family="SF Compact Display" font-size="14" font-style="condensed" font-weight="260" sketch:alignment="right" fill="#1A1918">
+                <tspan x="229.34082" y="253">Inciting</tspan>
+                <tspan x="225.341797" y="269">Incident</tspan>
+            </text>
+            <text id="Try-&amp;-Fail" sketch:type="MSTextLayer" font-family="SF Compact Display" font-size="14" font-style="condensed" font-weight="260" sketch:alignment="right" fill="#1A1918">
+                <tspan x="483.411133" y="253">Try &amp; Fail</tspan>
+                <tspan x="503.556641" y="269">Cycle</tspan>
+            </text>
+            <text id="Climax" sketch:type="MSTextLayer" font-family="SF Compact Display" font-size="14" font-style="condensed" font-weight="260" sketch:alignment="right" fill="#1A1918">
+                <tspan x="749.866211" y="269">Climax</tspan>
+            </text>
+            <text id="Return" sketch:type="MSTextLayer" font-family="SF Compact Display" font-size="14" font-style="condensed" font-weight="260" sketch:alignment="right" fill="#1A1918">
+                <tspan x="904.852539" y="269">Return</tspan>
+            </text>
+            <circle id="Oval-1" fill="#363636" sketch:type="MSShapeGroup" cx="170.5" cy="249.5" r="7.5"></circle>
+            <path d="M465.5,132 C469.642136,132 473,128.642136 473,124.5 C473,120.357864 469.642136,117 465.5,117 C461.357864,117 458,120.357864 458,124.5 C458,128.642136 461.357864,132 465.5,132 Z" id="Oval-1-Copy" fill="#363636" sketch:type="MSShapeGroup"></path>
+            <circle id="Oval-1-Copy-4" fill="#363636" sketch:type="MSShapeGroup" cx="424.5" cy="158.5" r="7.5"></circle>
+            <circle id="Oval-1-Copy-5" fill="#363636" sketch:type="MSShapeGroup" cx="379.5" cy="185.5" r="7.5"></circle>
+            <circle id="Oval-1-Copy-6" fill="#363636" sketch:type="MSShapeGroup" cx="323.5" cy="212.5" r="7.5"></circle>
+            <circle id="Oval-1-Copy-2" fill="#363636" sketch:type="MSShapeGroup" cx="602.5" cy="64.5" r="7.5"></circle>
+            <circle id="Oval-1-Copy-3" fill="#363636" sketch:type="MSShapeGroup" cx="860.5" cy="247.5" r="7.5"></circle>
+        </g>
+    </g>
+</svg>
