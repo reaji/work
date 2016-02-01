@@ -176,7 +176,9 @@ a:hover{
 /*navvvvvvvvvvvvvvvvvvvvvvvvv ennnnnnnnds*/
 
 .showcase{
-  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+  display: block;
 }
 
 .comp{
@@ -227,9 +229,8 @@ p{
 }
 
 .protitle1{
-  font-weight: 500;
   text-align: center;
-  margin: 60px auto 20px;
+  margin: 60px auto 30px;
 }
 
 .prosubtitle{
@@ -239,11 +240,18 @@ p{
 }
 
 .prodescribe{
-  width: 600px;
+  max-width: 600px;
   font-weight: 200;
   text-align: left;
   line-height: 200%;
   text-indent: -5px;
+}
+
+.prodescribe1{
+  max-width: 600px;
+  font-weight: 200;
+  text-align: left;
+  line-height: 200%;
 }
 
 .procredit{
@@ -264,7 +272,34 @@ p{
   cursor: pointer;
 }
 
+.imgnote{
+  text-align: center;
+  font-weight: 200;
+  color: grey;
+  text-decoration: underline;
+  opacity: 0.8;
+}
+
+.quotation{
+  max-width: 500px;
+  color: grey;
+  text-align: right;
+  margin: 70px auto 70px;
+}
+
+.keypoint{
+  font-weight: 200;
+  max-width: 450px;
+  text-align: center;
+  margin: 50px auto 50px;
+}
+
+.keypoint span{
+  font-weight: 600;
+}
+
 .whatis:hover ~ .itis { display: block; }
+
 
 
 /*mybutttttttttttttttttttttttttttt*/

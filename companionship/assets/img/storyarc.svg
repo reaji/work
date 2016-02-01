@@ -3,55 +3,83 @@
     <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
     <title>Group</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
+    <defs>
+        <linearGradient x1="79.255563%" y1="0%" x2="79.2555611%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FBDA61" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-1125.03749%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FBDA61" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-364.391754%" x2="50%" y2="891.222377%" id="linearGradient-3">
+            <stop stop-color="#FBDA61" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-772.605565%" x2="50%" y2="567.337589%" id="linearGradient-4">
+            <stop stop-color="#FBDA61" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-898.090361%" x2="50%" y2="395.398747%" id="linearGradient-5">
+            <stop stop-color="#FBDA61" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="1244.88519%" id="linearGradient-6">
+            <stop stop-color="#FBDA61" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-1255.56567%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#FBDA61" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
     <g id="Companionship" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
         <g id="Group" sketch:type="MSLayerGroup">
             <rect id="Rectangle-14" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="1000" height="296"></rect>
             <rect id="Rectangle-15-Copy" fill="#E9E9E9" sketch:type="MSShapeGroup" x="274" y="0" width="262" height="271"></rect>
             <rect id="Rectangle-15-Copy-2" fill="#E9E9E9" sketch:type="MSShapeGroup" x="790" y="1" width="155" height="271"></rect>
-            <path d="M100,254.710258 C100,254.710258 328.5,259.920515 466.5,122.210258 C604.5,-15.4999998 692,129.999999 692,129.999999 C692,129.999999 760.197531,224.231111 839.209772,244.4379 C848.666247,246.856322 858.757494,248.210257 869.5,248.210258 C881.230347,248.210259 899.5,248 899.5,248" id="Path-2" stroke="#363636" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
+            <path d="M100,254.710258 C100,254.710258 328.5,259.920515 466.5,122.210258 C529.69487,59.1480706 621.5,41.920517 697,122.210258 C772.5,202.499998 809.456293,236.82867 839.209772,244.4379 C848.666247,246.856322 858.757494,248.210257 869.5,248.210258 C881.230347,248.210259 899.5,248 899.5,248" id="Path-2" stroke="url(#linearGradient-1)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup"></path>
             <path d="M77.5,271 L944.546712,271" id="Path-3" stroke="#979797" stroke-width="2" stroke-linecap="round" stroke-dasharray="1,10" sketch:type="MSShapeGroup"></path>
             <path d="M78,271 L78,0.5" id="Path-4" stroke="#979797" stroke-width="2" stroke-linecap="round" stroke-dasharray="1,10" sketch:type="MSShapeGroup"></path>
-            <text id="Intro-letter" sketch:type="MSTextLayer" font-family="SF UI Display" font-size="24" font-weight="420" fill="#1A1918">
-                <tspan x="124" y="40">Intro letter</tspan>
+            <text id="Talk-to-priest" sketch:type="MSTextLayer" font-family="SF UI Display" font-size="24" font-weight="420" fill="#777777">
+                <tspan x="113" y="40">Talk to priest</tspan>
             </text>
-            <text id="Talk-to-other-charac" sketch:type="MSTextLayer" font-family="SF UI Display" font-size="24" font-weight="420" fill="#1A1918">
+            <text id="Talk-to-other-charac" sketch:type="MSTextLayer" font-family="SF UI Display" font-size="24" font-weight="420" fill="#777777">
                 <tspan x="283" y="40">Talk to other character,</tspan>
                 <tspan x="283" y="69">reveal stories.</tspan>
             </text>
-            <text id="Talk-to-Mojica" sketch:type="MSTextLayer" font-family="SF UI Display" font-size="24" font-weight="420" fill="#1A1918">
+            <text id="Talk-to-Mojica" sketch:type="MSTextLayer" font-family="SF UI Display" font-size="24" font-weight="420" fill="#777777">
                 <tspan x="595" y="40">Talk to Mojica</tspan>
             </text>
-            <text id="Returen-letter" sketch:type="MSTextLayer" font-family="SF UI Display" font-size="24" font-weight="420" fill="#1A1918">
-                <tspan x="795" y="40">Returen letter</tspan>
+            <text id="Return-letter" sketch:type="MSTextLayer" font-family="SF UI Display" font-size="24" font-weight="420" fill="#777777">
+                <tspan x="802" y="40">Return letter</tspan>
             </text>
-            <text id="Tension" sketch:type="MSTextLayer" transform="translate(65.000000, 126.000000) rotate(-90.000000) translate(-65.000000, -126.000000) " font-family="SF Compact Display" font-size="20" font-style="condensed" font-weight="260" sketch:alignment="middle" fill="#1A1918">
+            <text id="Tension" sketch:type="MSTextLayer" transform="translate(65.000000, 126.000000) rotate(-90.000000) translate(-65.000000, -126.000000) " font-family="SF Compact Display" font-size="20" font-style="condensed" font-weight="260" sketch:alignment="middle" fill="#737373">
                 <tspan x="32.1435547" y="133">Tension</tspan>
             </text>
-            <text id="Time" sketch:type="MSTextLayer" font-family="SF Compact Display" font-size="20" font-style="condensed" font-weight="260" sketch:alignment="middle" fill="#1A1918">
+            <text id="Time" sketch:type="MSTextLayer" font-family="SF Compact Display" font-size="20" font-style="condensed" font-weight="260" sketch:alignment="middle" fill="#737373">
                 <tspan x="79.2285156" y="291">Time</tspan>
             </text>
-            <text id="Inciting" sketch:type="MSTextLayer" font-family="SF Compact Display" font-size="14" font-style="condensed" font-weight="260" sketch:alignment="right" fill="#1A1918">
+            <text id="Inciting" sketch:type="MSTextLayer" font-family="SF Compact Display" font-size="14" font-style="condensed" font-weight="260" sketch:alignment="right" fill="#737373">
                 <tspan x="229.34082" y="253">Inciting</tspan>
                 <tspan x="225.341797" y="269">Incident</tspan>
             </text>
-            <text id="Try-&amp;-Fail" sketch:type="MSTextLayer" font-family="SF Compact Display" font-size="14" font-style="condensed" font-weight="260" sketch:alignment="right" fill="#1A1918">
+            <text id="Try-&amp;-Fail" sketch:type="MSTextLayer" font-family="SF Compact Display" font-size="14" font-style="condensed" font-weight="260" sketch:alignment="right" fill="#737373">
                 <tspan x="483.411133" y="253">Try &amp; Fail</tspan>
                 <tspan x="503.556641" y="269">Cycle</tspan>
             </text>
-            <text id="Climax" sketch:type="MSTextLayer" font-family="SF Compact Display" font-size="14" font-style="condensed" font-weight="260" sketch:alignment="right" fill="#1A1918">
+            <text id="Climax" sketch:type="MSTextLayer" font-family="SF Compact Display" font-size="14" font-style="condensed" font-weight="260" sketch:alignment="right" fill="#737373">
                 <tspan x="749.866211" y="269">Climax</tspan>
             </text>
-            <text id="Return" sketch:type="MSTextLayer" font-family="SF Compact Display" font-size="14" font-style="condensed" font-weight="260" sketch:alignment="right" fill="#1A1918">
+            <text id="Return" sketch:type="MSTextLayer" font-family="SF Compact Display" font-size="14" font-style="condensed" font-weight="260" sketch:alignment="right" fill="#737373">
                 <tspan x="904.852539" y="269">Return</tspan>
             </text>
-            <circle id="Oval-1" fill="#363636" sketch:type="MSShapeGroup" cx="170.5" cy="249.5" r="7.5"></circle>
-            <path d="M465.5,132 C469.642136,132 473,128.642136 473,124.5 C473,120.357864 469.642136,117 465.5,117 C461.357864,117 458,120.357864 458,124.5 C458,128.642136 461.357864,132 465.5,132 Z" id="Oval-1-Copy" fill="#363636" sketch:type="MSShapeGroup"></path>
-            <circle id="Oval-1-Copy-4" fill="#363636" sketch:type="MSShapeGroup" cx="424.5" cy="158.5" r="7.5"></circle>
-            <circle id="Oval-1-Copy-5" fill="#363636" sketch:type="MSShapeGroup" cx="379.5" cy="185.5" r="7.5"></circle>
-            <circle id="Oval-1-Copy-6" fill="#363636" sketch:type="MSShapeGroup" cx="323.5" cy="212.5" r="7.5"></circle>
-            <circle id="Oval-1-Copy-2" fill="#363636" sketch:type="MSShapeGroup" cx="602.5" cy="64.5" r="7.5"></circle>
-            <circle id="Oval-1-Copy-3" fill="#363636" sketch:type="MSShapeGroup" cx="860.5" cy="247.5" r="7.5"></circle>
+            <circle id="Oval-1" fill="url(#linearGradient-2)" sketch:type="MSShapeGroup" cx="170.5" cy="249.5" r="7.5"></circle>
+            <path d="M465.5,132 C469.642136,132 473,128.642136 473,124.5 C473,120.357864 469.642136,117 465.5,117 C461.357864,117 458,120.357864 458,124.5 C458,128.642136 461.357864,132 465.5,132 Z" id="Oval-1-Copy" fill="url(#linearGradient-3)" sketch:type="MSShapeGroup"></path>
+            <path d="M411.5,174 C415.642136,174 419,170.642136 419,166.5 C419,162.357864 415.642136,159 411.5,159 C407.357864,159 404,162.357864 404,166.5 C404,170.642136 407.357864,174 411.5,174 Z" id="Oval-1-Copy-4" fill="url(#linearGradient-4)" sketch:type="MSShapeGroup"></path>
+            <path d="M348.5,209 C352.642136,209 356,205.642136 356,201.5 C356,197.357864 352.642136,194 348.5,194 C344.357864,194 341,197.357864 341,201.5 C341,205.642136 344.357864,209 348.5,209 Z" id="Oval-1-Copy-5" fill="url(#linearGradient-5)" sketch:type="MSShapeGroup"></path>
+            <circle id="Oval-1-Copy-2" fill="url(#linearGradient-6)" sketch:type="MSShapeGroup" cx="586.5" cy="68.5" r="7.5"></circle>
+            <circle id="Oval-1-Copy-3" fill="url(#linearGradient-7)" sketch:type="MSShapeGroup" cx="860.5" cy="247.5" r="7.5"></circle>
         </g>
     </g>
 </svg>
