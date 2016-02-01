@@ -250,6 +250,15 @@ td{
     /*vertical-align: middle;*/
 }
 
+.continue{
+  letter-spacing: 0;
+  color: grey;
+  max-width: 500px;
+  margin: 100px auto 100px;
+  text-align: center;
+  font-weight: 300;
+}
+
 
 .shareit{
   display: none;
