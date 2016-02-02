@@ -183,28 +183,28 @@ a:hover{
 }
 
 .smshowcase{
-  max-width: 600px;
+  max-width: 650px;
   margin: 80px auto;
   display: block;
 }
 
 .character{
-  max-width: 50%;
+  max-width: 300px;
   display: inline-block;
   vertical-align: middle;
 }
 
 .characterds{
   display: inline-block;
-  max-width: 260px;
+  max-width: 300px;
   vertical-align: middle;
-  padding: 0 20px;
+  padding: 0 0 0 40px;
   font-weight: 200;
 }
 
 .characterds span{
   font-weight: 600;
-  font-size: 24pt;
+  font-size: 18pt;
 }
 
 .comp{
@@ -476,8 +476,19 @@ padding:0 15px;
 
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 610px) {
+.character{
+  max-width: 50%;
+  display: block;
+  margin: 0 auto;
+}
 
+.characterds{
+  display:block;
+ margin: 20px auto 0;
+ text-align: center;
+ padding: 0;
+}
 
 }
 
