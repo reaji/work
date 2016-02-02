@@ -2,35 +2,35 @@
 @font-face {
   font-family: "San Francisco";
   font-weight: 200;
-  src: url("../assets/font/sf-ui-display-thin-webfont.woff");
+  src: url("../../assets/font/sf-ui-display-light-webfont.woff");
 }
 
 /** Regular */
 @font-face {
   font-family: "San Francisco";
   font-weight: 400;
-  src: url("../assets/font/sf-ui-display-regular-webfont.woff");
+  src: url("../../assets/font/sf-ui-display-regular-webfont.woff");
 }
 
 /** Medium */
 @font-face {
   font-family: "San Francisco";
   font-weight: 500;
-  src: url("../assets/font/sf-ui-display-medium-webfont.woff");
+  src: url("../../assets/font/sf-ui-display-medium-webfont.woff");
 }
 
 /** Semi Bold */
 @font-face {
   font-family: "San Francisco";
   font-weight: 600;
-  src: url("../assets/font/sf-ui-display-semibold-webfont.woff");
+  src: url("../../assets/font/sf-ui-display-semibold-webfont.woff");
 }
 
 /** Bold */ 
 @font-face {
   font-family: "San Francisco";
   font-weight: 700;
-  src: url("../assets/font/sf-ui-display-bold-webfont.woff");
+  src: url("../../assets/font/sf-ui-display-bold-webfont.woff");
 }
 
 /** Thin */
@@ -72,6 +72,7 @@
 
 * {
     font-family: 'San Francisco', sans-serif;  
+    hyphens: none;
 }
 
 *::-webkit-scrollbar { 
@@ -181,18 +182,43 @@ a:hover{
   display: block;
 }
 
+.smshowcase{
+  max-width: 600px;
+  margin: 80px auto;
+  display: block;
+}
+
+.character{
+  max-width: 50%;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.characterds{
+  display: inline-block;
+  max-width: 260px;
+  vertical-align: middle;
+  padding: 0 20px;
+  font-weight: 200;
+}
+
+.characterds span{
+  font-weight: 600;
+  font-size: 24pt;
+}
+
 .comp{
   height: 10px;
 }
 
 h1{
-  font-size: 22pt;
+  font-size: 24pt;
   font-weight: 700;
   margin: 0 auto;
 }
 
 h2{
-  font-size: 18pt;
+  font-size: 20pt;
   font-weight: 600;
   margin: 0 auto;
 }
@@ -210,8 +236,8 @@ h4{
 }
 
 h6{
-  font-size: 10pt;
-  font-weight: 500;
+  font-size: 12pt;
+  font-weight: 200;
   margin: 2px auto 15px;
 
 }
@@ -241,17 +267,17 @@ p{
 
 .prodescribe{
   max-width: 600px;
-  font-weight: 200;
+  font-weight: 400;
   text-align: left;
-  line-height: 200%;
+  line-height: 150%;
   text-indent: -5px;
 }
 
 .prodescribe1{
   max-width: 600px;
-  font-weight: 200;
+  font-weight: 400;
   text-align: left;
-  line-height: 200%;
+  line-height: 150%;
 }
 
 .procredit{
@@ -291,7 +317,7 @@ p{
   font-weight: 200;
   max-width: 450px;
   text-align: center;
-  margin: 50px auto 50px;
+  margin: 150px auto 150px;
 }
 
 .keypoint span{
@@ -415,6 +441,22 @@ p{
 
 #content{
   width: 100%;
+}
+
+.prodescribe1{
+padding: 0 15px;
+}
+
+.prodescribe{
+padding: 0 15px;
+}
+
+.quotation{
+padding:  0 15px;
+}
+
+.keypoint{
+padding:0 15px;
 }
 
 
