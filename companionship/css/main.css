@@ -2,68 +2,33 @@
 @font-face {
   font-family: "San Francisco";
   font-weight: 200;
-  src: url("../../assets/font/sf-ui-display-light-webfont.woff");
-}
-
-/** Regular */
-@font-face {
-  font-family: "San Francisco";
-  font-weight: 400;
-  src: url("../../assets/font/sf-ui-display-regular-webfont.woff");
-}
-
-/** Medium */
-@font-face {
-  font-family: "San Francisco";
-  font-weight: 500;
-  src: url("../../assets/font/sf-ui-display-medium-webfont.woff");
-}
-
-/** Semi Bold */
-@font-face {
-  font-family: "San Francisco";
-  font-weight: 600;
-  src: url("../../assets/font/sf-ui-display-semibold-webfont.woff");
-}
-
-/** Bold */ 
-@font-face {
-  font-family: "San Francisco";
-  font-weight: 700;
-  src: url("../../assets/font/sf-ui-display-bold-webfont.woff");
-}
-
-/** Thin */
-@font-face {
-  font-family: "SF compact";
-  font-weight: 200;
   src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-thin-webfont.woff");
 }
 
 /** Regular */
 @font-face {
-  font-family: "SF compact";
+  font-family: "San Francisco";
   font-weight: 400;
   src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
 }
 
 /** Medium */
 @font-face {
-  font-family: "SF compact";
+  font-family: "San Francisco";
   font-weight: 500;
   src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-medium-webfont.woff");
 }
 
 /** Semi Bold */
 @font-face {
-  font-family: "SF compact";
+  font-family: "San Francisco";
   font-weight: 600;
   src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-semibold-webfont.woff");
 }
 
 /** Bold */ 
 @font-face {
-  font-family: "SF compact";
+  font-family: "San Francisco";
   font-weight: 700;
   src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-bold-webfont.woff");
 }
@@ -89,20 +54,40 @@ html, body{
 	position: relative;
 	overflow-x:hidden; 
   animation: accessin4 3s ease-in-out;
-  width: 1000px;
-  margin: 60px auto 0;
+  /*width: 1000px;*/
+  margin: 90px auto 0;
 }
 
 /*navvvvvvvvvvvvvvvvvvvvvvvvv*/
 
 #nav{
-	position: relative;
+	position: fixed;
 	top:10px;
+  right: 0;
+  left: 0;
+  z-index: 5;
   margin: 0 auto;
   width: 500px;
   height: 43px;
 }
 
+.readmore{
+  max-width: 630px;
+  padding: 0 15px;
+  margin: 15px auto;
+  text-align: right;
+  cursor: pointer;
+  display: block;
+  border-top: 1px dashed grey;
+}
+
+.readmore:hover {
+  text-decoration: underline;
+}
+
+#readmore{
+display: none;
+}
 
 .title{
 	font-size: 26pt;
@@ -113,7 +98,7 @@ html, body{
   width: 222px;
   cursor: pointer;
   color: black;
-  font-family: 'SF compact', sans-serif;
+  font-family: 'San Francisco', sans-serif;
 
 }
 
@@ -140,7 +125,7 @@ a:hover{
     margin: 0 auto;
     letter-spacing: 0.6px;
     color: black;
-    font-family: 'SF compact', sans-serif;
+    font-family: 'San Francisco', sans-serif;
 }
 
 .manu.about{
@@ -262,7 +247,7 @@ p{
 .prosubtitle{
   font-weight: 200;
   text-align: center;
-  margin-bottom: 40px;
+ /* margin-bottom: 40px;*/
 }
 
 .prodescribe{
@@ -270,7 +255,7 @@ p{
   font-weight: 400;
   text-align: left;
   line-height: 150%;
-  text-indent: -5px;
+  text-indent: -6px;
 }
 
 .prodescribe1{
@@ -285,13 +270,24 @@ p{
   font-weight: 200;
   text-align: center;
   line-height: 200%;
-  margin-bottom: 30px;
+/*  margin-bottom: 30px;*/
 }
 
 .itis{
   max-width: 600px;
   margin: 0 auto;
   display: none;
+}
+
+#elevatorpitch{
+  max-width: 600px;
+  text-align: left;
+  margin: 20px auto 0;
+  font-weight: 500;
+}
+
+#elevatorpitch span{
+  font-weight: 700;
 }
 
 .whatis{
@@ -457,6 +453,10 @@ padding:  0 15px;
 
 .keypoint{
 padding:0 15px;
+}
+
+#elevatorpitch{
+padding:0 25px;
 }
 
 
