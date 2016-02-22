@@ -3,41 +3,146 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Zhiyu Xue</title>
+    <title>24.7MIXX - Zhiyu Xue</title>
     <meta name="author" content="Zhiyu(Reaji) Xue" />
     <link rel="stylesheet" href="css/main.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <link rel="shortcut icon" href="assets/icons/webtag.png">
+    <link rel="shortcut icon" href="../assets/icons/webtag.png">
     <link rel="apple-touch-icon-precomposed" sizes="180x180" href="assets/icons/webtag.svg">
 
      <meta name="apple-mobile-web-app-capable" content="yes" />
 
-     <style>
-     body,html{
-      background: #191A1E;
-     }
-     </style>
+
+ <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+        
+        <script type="text/javascript">
+            // When the window has finished loading create our google map below
+            google.maps.event.addDomListener(window, 'load', init);
+        
+            function init() {
+                // Basic options for a simple Google Map
+                // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
+                var mapOptions = {
+                    // How zoomed in you want the map to start at (always required)
+                    zoom: 7,
+
+                    // The latitude and longitude to center the map (always required)
+                    center: new google.maps.LatLng(19.433333, -99.133333), // New York
+
+                    // How you would like to style the map. 
+                    // This is where you would paste any style found on Snazzy Maps.
+                    styles: [{"featureType":"all","elementType":"labels.text.fill","stylers":[{"saturation":36},{"color":"#000000"},{"lightness":40}]},{"featureType":"all","elementType":"labels.text.stroke","stylers":[{"visibility":"on"},{"color":"#000000"},{"lightness":16}]},{"featureType":"all","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"administrative","elementType":"geometry.fill","stylers":[{"color":"#000000"},{"lightness":20}]},{"featureType":"administrative","elementType":"geometry.stroke","stylers":[{"color":"#000000"},{"lightness":17},{"weight":1.2}]},{"featureType":"administrative","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"administrative.country","elementType":"all","stylers":[{"visibility":"simplified"}]},{"featureType":"administrative.country","elementType":"geometry","stylers":[{"visibility":"simplified"}]},{"featureType":"administrative.country","elementType":"labels.text","stylers":[{"visibility":"simplified"}]},{"featureType":"administrative.province","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"administrative.locality","elementType":"all","stylers":[{"visibility":"simplified"},{"saturation":"-100"},{"lightness":"30"}]},{"featureType":"administrative.neighborhood","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"administrative.land_parcel","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"landscape","elementType":"all","stylers":[{"visibility":"simplified"},{"gamma":"0.00"},{"lightness":"74"}]},{"featureType":"landscape","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":20}]},{"featureType":"landscape.man_made","elementType":"all","stylers":[{"lightness":"3"}]},{"featureType":"poi","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"poi","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":21}]},{"featureType":"road","elementType":"geometry","stylers":[{"visibility":"simplified"}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#000000"},{"lightness":17}]},{"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"color":"#000000"},{"lightness":29},{"weight":0.2}]},{"featureType":"road.arterial","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":18}]},{"featureType":"road.local","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":16}]},{"featureType":"transit","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":19}]},{"featureType":"water","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":17}]}]
+                };
+
+                // Get the HTML DOM element that will contain your map 
+                // We are using a div with id="map" seen below in the <body>
+                var mapElement = document.getElementById('map');
+
+                // Create the Google Map using our element and options defined above
+                var map = new google.maps.Map(mapElement, mapOptions);
+
+                // Let's also add a marker while we're at it
+                var marker = new google.maps.Marker({
+                    position: new google.maps.LatLng(19.433333, -99.133333),
+                    map: map,
+                    title: 'Virgin Local Radio'
+                });
+            }
+        </script>
 
   </head>
+  
   <body>
-
 
 <div id="nav">
       <a href="http://zxue.me"><div class="title">ZHIYU XUE</div></a>
       <a href="http://resume.zxue.me"><div class="manu about">ABOUT</div></a>
-      <a href="../index.html"><div class="manu works">WORKS</div></a>
+      <a href="../index.html"><div class="manu works">WORK</div></a>
   </div>
 
+  <img class="splashscreen"src="assets/img/splashscreen1.svg" />
+
+  <div id="content">
+
+ <h1 class="protitle"><span>24.7</span> MIXX</h1>
+  <h4 class="prosubtitle">An online music service that focuses on Virgin America on air experience.</h4>
+  <h6 class="procredit">Project Advisor: <a href="http://www.aynne.info" style="font-weight:500; text-decoration:underline">Aynne Valencia</a></h6>
+
+  <a href="http://zxue.me/24-7mixx"><img class="headpic"src="assets/img/logo.svg" />
+  <h1 class="tagline">You don’t have to download music to kill time anymore.</h1></a>
+
+  <h3 id="elevatorpitch">For Virgin Airlines flyers who currently subscribe to other streaming music services, 24.7MIXX is an is a new internet channel that allows subscribers to play music anywhere. Unlike most other music streaming service, 24.7MIXX plays music for you even on the aircraft.</h3>
+
+  <h4 class="quotation">“There’s little things that happen every day. What can you as interaction designers do with things that happen every day, how can you make these little boring things exciting.” <br/>-Aynne Valencia (Instructor)</h4>
+
+   <img class="showcase"src="assets/img/mixx2.png" />
+   
+
+   <table id="inflight">
+    <tr>
+      <td class="lg"> <img class="showcase"src="assets/img/playlist.png" /></td>
+      <td class="lg">
+    <h1 class="tagline2">On Air Entertainment</h1>
+    <p class="tagline2"><br /><span>More amusing than ever,</span> Virgin America is the airline people enjoy flying with. People love the reinvented entertainment experience that Virgin offers. Now, 24.7Mixx offers seamless music service by bringing your playlist on to the in-flight screens and magnify users' travel experience with local culture in the music.<br><a href="http://zxue.me/24-7mixx/design.html">More Info</a></p>
+  </td>
+  </tr>
+ 
+ <tr >
+  <td class="sm"><img class="showcase"src="assets/img/playlist.png" /></td>
+ </tr>
+
+  <tr ><td class="sm">
+ <h1 class="tagline2">On Air Entertainment</h1>
+    <p class="tagline2"><br /><span>More amusing than ever,</span> Virgin America is the airline people enjoy flying with. People love the reinvented entertainment experience that Virgin offers. Now, 24.7Mixx offers seamless music service by bringing your playlist on to the in-flight screens and magnify users' travel experience with local culture in the music.<br><a href="http://zxue.me/24-7mixx/design.html">More Info</a></p>
+  </td>
+ </tr>
 
 
-<img src="assets/img/mixx.png" class="showcase" />
+  </table>
 
 
+     <div class="mapcontain">
+      <div class="nointeract"><h1>Local Radio - An auditory sense of where you are.<br><span>When your airplane flies over a new area, local music will begin broadcasting.<span></h1></div>
+     <div id="map"></div>
+     <img class="myflyanime" src="assets/img/Airplane.svg" />
+     <img class="localradio" src="assets/img/Notif.png" />
+     </div>
+
+      <table id="phone">
+    <tr>
+       <td class="lg">
+    <h1 class="tagline2">Small Screen Life Style</h1>
+    <p class="tagline2"><br /><span>More amusing than ever,</span> Virgin America is the airline people enjoy flying with. People love the reinvented entertainment experience that Virgin offers. Now, 24.7Mixx offers seamless music service by bringing your playlist on to the in-flight screens and magnify users' travel experience with local culture in the music.<br><a href="http://zxue.me/24-7mixx/design.html">More Info</a></p>
+  </td>
+      <td class="lg"> <img class="showcase"src="assets/img/phoneplay.png" /></td>
+     
+  </tr>
+
+<tr >
+  <td class="sm"><img class="showcase"src="assets/img/phoneplay.png" /></td>
+ </tr>
+
+  <tr ><td class="sm">
+ <h1 class="tagline2">Small Screen Life Style</h1>
+    <p class="tagline2"><br /><span>More amusing than ever,</span> Virgin America is the airline people enjoy flying with. People love the reinvented entertainment experience that Virgin offers. Now, 24.7Mixx offers seamless music service by bringing your playlist on to the in-flight screens and magnify users' travel experience with local culture in the music.<br><a href="http://zxue.me/24-7mixx/design.html">More Info</a></p>
+  </td>
+ </tr>
+
+  </table>
+   <img class="showcase"src="assets/img/phone.png" />
+   <img class="showcase"src="assets/img/brand.png" />
+   
+    <h1 class="tagline3">24.7 MIXX BRANDING</h1>
+    <p class="tagline3"><br /><span>More amusing than ever,</span> Virgin America is the airline people enjoy flying with. People love the reinvented entertainment experience that Virgin offers. Now, 24.7Mixx offers seamless music service by bringing your playlist on to the in-flight screens and magnify users' travel experience with local culture in the music.<br><br><a href="http://zxue.me/24-7mixx/assets/brand/logotemp.pdf">More Info</a></p>
+
+    <img class="showcasemap"src="assets/img/map.png" />
+
+</div>
 
 
 
 <div id="mybutt">
-  <div class="mycopyright"><a href="http://resume.zxue.me"><span class="myrightfont"><span class="mycopyrightc">&#9426; &nbsp</span> 2016 ZHIYU(REAJI) XUE</span></a></div>
+  <div class="mycopyright"><a href="http://resume.zxue.me"><span class="myrightfont"><span class="mycopyrightc">&#9426; &nbsp</span> 2016 ZHIYU XUE</span></a></div>
 
   <a href="https://www.facebook.com/Mr.douBlelBean"><div class="mysharebuttom1">f</div></a> <a href="https://twitter.com/reajixue"><div class="mysharebuttom2">t</div></a> <a href="http://www.linkedin.com/in/zhiyuxue"><div class="mysharebuttom3">in</div></a>
 </div>

@@ -68,15 +68,16 @@ html, body{
 
 
 .title{
-	font-size: 26pt;
-	font-weight: 700;
-	text-align: center;
-	letter-spacing: 6px;
-	margin: 0 auto;
-  width: 222px;
+  font-size: 26pt;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 6px;
+  margin: 0 auto;
+  width: 226px;
   cursor: pointer;
-/*  padding: 0 0 0 6px;
-*/}
+  font-family: 'San Francisco', sans-serif;
+  text-indent: 6px;
+}
 
 a{
   text-decoration: none;
