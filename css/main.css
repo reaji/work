@@ -225,6 +225,16 @@ a{
   transition:0.5s ease-in-out;
 }
 
+.unown{
+  max-width: 620px;
+  height:410px;
+  overflow: none;
+}
+
+.nonflow{
+  overflow: none;
+}
+
 /*.projectsharet:hover{
   color:#55acee;
 }
@@ -478,6 +488,7 @@ p{
   text-align: center;
   vertical-align: middle;
   /*padding: 0 50px 0 50px;*/
+  padding: 0 15px;
   margin: 0px auto 0px auto;
 }
 
@@ -491,6 +502,7 @@ p{
 }
 
 .detailsm{
+  padding: 0 15px;
   margin: 0px auto 0px auto;
   display: block;
   /*width: 70%;*/
