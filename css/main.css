@@ -139,8 +139,12 @@ a{
 }
 /*navvvvvvvvvvvvvvvvvvvvvvvvv ennnnnnnnds*/
 
-#project1{
-   margin: 50px auto 80px;
+#mixx{
+   margin: 80px auto 80px;
+}
+
+#unownsans{
+   margin: 80px auto 30px;
 }
 
 
@@ -470,7 +474,15 @@ p{
 }
 
 .item{
-  margin: 20px auto 0 auto;
+  margin: 20px auto 0;
+}
+
+#mixx{
+   margin: 20px auto 0px;
+}
+
+#unownsans{
+   margin: 20px auto 0px;
 }
 
 .cutline{
