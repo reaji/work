@@ -87,6 +87,8 @@ a{
 
 
 
+
+
 .manu{
     display: block;
     font-size: 1.17em;
@@ -345,7 +347,7 @@ p{
   font-size: 10pt;
   font-weight: 400;
   margin: 0 auto;
-  letter-spacing: 0.5px;
+  letter-spacing: 0;
   line-height: 150%;
 }
 
