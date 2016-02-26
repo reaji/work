@@ -1,0 +1,522 @@
+/** Thin */
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 200;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-thin-webfont.woff");
+}
+
+/** Regular */
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 400;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
+}
+
+/** Medium */
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 500;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-medium-webfont.woff");
+}
+
+/** Semi Bold */
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 600;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-semibold-webfont.woff");
+}
+
+/** Bold */ 
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 700;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-bold-webfont.woff");
+}
+
+
+
+* {
+    font-family: 'San Francisco', sans-serif;  
+    hyphens: none;
+}
+
+*::-webkit-scrollbar { 
+  display: none;
+}
+
+html, body{
+	margin: 0;
+  height: auto;
+}
+
+
+#content{
+	position: relative;
+	overflow-x:hidden; 
+  animation: accessin4 3s ease-in-out;
+  /*width: 1000px;*/
+  margin: 90px auto 0;
+}
+
+/*navvvvvvvvvvvvvvvvvvvvvvvvv*/
+
+#nav{
+	position: fixed;
+	top:10px;
+  right: 0;
+  left: 0;
+  z-index: 5;
+  margin: 0 auto;
+  width: 500px;
+  height: 43px;
+}
+
+.readmore{
+  max-width: 630px;
+  padding: 0 15px;
+  margin: 15px auto;
+  text-align: right;
+  cursor: pointer;
+  display: block;
+  border-top: 1px dashed grey;
+}
+
+.readmore:hover {
+  text-decoration: underline;
+}
+
+#readmore{
+display: none;
+}
+
+.title{
+  font-size: 26pt;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 6px;
+  margin: 0 auto;
+  width: 230px;
+  cursor: pointer;
+  font-family: 'San Francisco', sans-serif;
+  text-indent: 6px;
+}
+
+.headpic{
+  width: 100%;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+  color: grey;
+}
+
+
+
+.manu{
+    display: block;
+    font-size: 1.17em;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-size: 12pt;
+    font-weight: 500;
+    margin: 0 auto;
+    letter-spacing: 0.6px;
+    color: black;
+    font-family: 'San Francisco', sans-serif;
+}
+
+.manu.about{
+  position: absolute;
+  top:12px;
+  left: 10px;
+  height: 21px;
+  cursor: pointer;
+  text-align: right;
+
+}
+
+.manu.about:hover{
+  border-bottom: 1px solid black;
+  color: black;
+}
+
+
+.manu.works:hover{
+  border-bottom: 1px solid black;
+  color: black;
+}
+
+
+
+.manu.works{
+  position: absolute;
+  top:12px;
+  right: 10px;
+  height: 21px;
+  cursor: pointer;
+
+}
+/*navvvvvvvvvvvvvvvvvvvvvvvvv ennnnnnnnds*/
+
+.showcase{
+  max-width: 100%;
+  margin: 0 auto;
+  display: block;
+}
+
+.smshowcase{
+  max-width: 650px;
+  margin: 80px auto;
+  display: block;
+}
+
+.character{
+  max-width: 300px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.characterds{
+  display: inline-block;
+  max-width: 300px;
+  vertical-align: middle;
+  padding: 0 0 0 40px;
+  font-weight: 200;
+}
+
+.characterds span{
+  font-weight: 600;
+  font-size: 18pt;
+}
+
+.comp{
+  height: 10px;
+}
+
+h1{
+  font-size: 24pt;
+  font-weight: 700;
+  margin: 0 auto;
+}
+
+h2{
+  font-size: 20pt;
+  font-weight: 600;
+  margin: 0 auto;
+}
+
+h3{
+  font-size: 14pt;
+  font-weight: 400;
+  margin: 0 auto;
+}
+
+h4{
+  font-size: 12pt;
+  font-weight: 500;
+  margin: 0 auto;
+}
+
+h6{
+  font-size: 12pt;
+  font-weight: 200;
+  margin: 2px auto 15px;
+
+}
+
+p{
+  font-size: 10pt;
+  font-weight: 400;
+  margin: 0 auto;
+  line-height: 150%;
+}
+
+.protitle{
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.protitle1{
+  text-align: center;
+  margin: 60px auto 30px;
+}
+
+.prosubtitle{
+  font-weight: 200;
+  text-align: center;
+ /* margin-bottom: 40px;*/
+}
+
+.prodescribe{
+  max-width: 600px;
+  font-weight: 400;
+  text-align: left;
+  line-height: 150%;
+  text-indent: -6px;
+}
+
+.prodescribe1{
+  max-width: 600px;
+  font-weight: 400;
+  text-align: left;
+  line-height: 150%;
+}
+
+.procredit{
+  max-width: 600px;
+  font-weight: 200;
+  text-align: center;
+  line-height: 200%;
+/*  margin-bottom: 30px;*/
+}
+
+.itis{
+  max-width: 600px;
+  margin: 0 auto;
+  display: none;
+}
+
+#elevatorpitch{
+  max-width: 600px;
+  text-align: left;
+  margin: 20px auto 0;
+  font-weight: 500;
+}
+
+#elevatorpitch span{
+  font-weight: 700;
+}
+
+.whatis{
+  cursor: pointer;
+}
+
+.imgnote{
+  text-align: center;
+  font-weight: 200;
+  color: grey;
+  text-decoration: underline;
+  opacity: 0.8;
+}
+
+.quotation{
+  max-width: 500px;
+  color: grey;
+  text-align: right;
+  margin: 70px auto 70px;
+}
+
+.keypoint{
+  font-weight: 200;
+  max-width: 450px;
+  text-align: center;
+  margin: 150px auto 150px;
+}
+
+.keypoint span{
+  font-weight: 600;
+}
+
+.whatis:hover ~ .itis { display: block; }
+
+
+
+/*mybutttttttttttttttttttttttttttt*/
+#mybutt{
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  height: 20px;
+}
+
+.mycopyright{
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 120px;
+  height: 20px;
+  text-align: center;
+}
+
+
+.mycopyright a:hover{
+  text-decoration: none;
+  color: black;
+}
+
+.mycopyright .myrightfont{
+  font-size: 8.5pt;
+  vertical-align: 1.5px;
+  /*line-height: 10px;*/
+  color:#999;
+}
+
+.mycopyright .myrightfont .mycopyrightc{
+  font-size: 8.5pt;
+  
+}
+
+.mysharebuttom1{
+  position: absolute;
+  right:0;
+  top: 0;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  font-weight: 900;
+  color: #777;
+  cursor: pointer;
+}
+
+.mysharebuttom1:hover{
+  color: white;
+  background: #3b5998;
+}
+
+.mysharebuttom2{
+  position: absolute;
+  right:20px;
+  top: 0;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  font-weight: 900;
+  color: #777;
+  cursor: pointer;
+}
+
+.mysharebuttom2:hover{
+  color: white;
+/*  background: #36465d;*/
+  background:#55acee;
+
+}
+
+.mysharebuttom3{
+  position: absolute;
+  right:40px;
+  top: 0;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  font-weight: 900;
+  color: #777;
+  cursor: pointer;
+}
+
+.mysharebuttom3:hover{
+  color: white;
+  background: #3f729b;
+}
+
+.mysharebuttom4{
+  position: absolute;
+  right:60px;
+  top: 0;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  font-weight: 900;
+  color: #777;
+  cursor: pointer;
+}
+
+.mysharebuttom4:hover{
+  color: white;
+  background: #55acee;
+
+}
+
+
+
+
+@media screen and (max-width: 1000px) {
+
+#content{
+  width: 100%;
+}
+
+.prodescribe1{
+padding: 0 15px;
+}
+
+.prodescribe{
+padding: 0 15px;
+}
+
+.quotation{
+padding:  0 15px;
+}
+
+.keypoint{
+padding:0 15px;
+}
+
+#elevatorpitch{
+padding:0 25px;
+}
+
+
+#mybutt{position: relative;}
+
+}
+
+
+@media screen and (max-width: 1025px) {
+
+
+}
+
+@media screen and (max-width: 610px) {
+.character{
+  max-width: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+.characterds{
+  display:block;
+ margin: 20px auto 0;
+ text-align: center;
+ padding: 0;
+}
+
+}
+
+
+@media screen and (max-width: 520px) {
+#nav{
+  width: 230px;
+  height: 86px;
+}
+
+
+
+.manu.about{
+  position: absolute;
+  top:40px;
+  left: 5px;
+
+}
+
+.manu.works{
+  position: absolute;
+  top:40px;
+  right: 8px;
+
+}
+
+}
+
+@media screen and (max-width: 350px) {}
+
+
+
+
+
