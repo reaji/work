@@ -368,7 +368,7 @@ p{
   position: absolute;
   left: 0;
   top: 0;
-  width: 160px;
+  width: 120px;
   height: 20px;
   text-align: center;
   /*border-right: .08em solid #444;*/
@@ -540,14 +540,6 @@ table {
 
 
 @media screen and (max-width: 1025px) {
-.mysharebuttom1{color: #3b5998;}
-
-
-.mysharebuttom2{color: #55acee;}
-
-
-.mysharebuttom3{color: #3f729b;}
-
 }
 
 @media screen and (max-width: 768px) {
