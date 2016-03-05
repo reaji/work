@@ -476,7 +476,7 @@ p{
 }
 
 .item{
-  margin: 20px auto 0;
+  margin: 50px auto 50px;
 }
 
 #mixx{
@@ -484,7 +484,7 @@ p{
 }
 
 #unownsans{
-   margin: 20px auto 0px;
+   margin: 50px auto 50px;
 }
 
 .cutline{
@@ -500,6 +500,7 @@ p{
 }
 
 .briefsm{
+  max-width: 400px;
   width: 80%;
   /*height: 310px;*/
   display: block;
@@ -520,6 +521,8 @@ p{
 }
 
 .detailsm{
+  max-width: 400px;
+  width: 80%;
   padding: 0 15px;
   margin: 0px auto 0px auto;
   display: block;
