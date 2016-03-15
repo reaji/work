@@ -1,0 +1,385 @@
+html, body{
+	width: 100%;
+	height: 100%;
+	overflow-x:hidden;
+	margin: 0; 
+	background: #fff; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#fff, #FAFAFA); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#fff, #FAFAFA); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#fff, #FAFAFA); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#fff, #FAFAFA); /* Standard syntax (must be last) */
+}
+
+*::-webkit-scrollbar { 
+  display: none;
+}
+
+/** Thin */
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 200;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-thin-webfont.woff");
+}
+
+/** Regular */
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 400;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
+}
+
+/** Medium */
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 500;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-medium-webfont.woff");
+}
+
+/** Semi Bold */
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 600;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-semibold-webfont.woff");
+}
+
+/** Bold */ 
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 700;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-bold-webfont.woff");
+}
+
+
+
+/** SF Regular*/ 
+@font-face {
+    font-family: "SFNS";
+    font-weight: 100;
+    src: url("../assets/font/sf-ui-display-ultralight-webfont.woff");
+}
+
+/** SF Think*/ 
+@font-face {
+    font-family: "SFNS";
+    font-weight: 200;
+    src: url("../assets/font/sf-ui-display-thin-webfont.woff");
+}
+
+/** SF Regular*/ 
+@font-face {
+    font-family: "SFNS";
+    font-weight: 300;
+    src: url("../assets/font/sf-ui-display-light-webfont.woff");
+}
+
+/** SF Regular*/ 
+@font-face {
+    font-family: "SFNS";
+    font-weight: 400;
+    src: url("../assets/font/sf-ui-display-regular-webfont.woff");
+}
+
+* {
+    font-family: 'San Francisco', helvetica;  
+}
+
+h1{
+	font-weight:200;
+	font-size: 56px;
+	line-height: 60px;
+	padding: 0 10px;
+	margin: 0;
+	color: #333;
+	font-family: 'SFNS','San Francisco';
+}
+
+h2{
+	font-weight: 100;
+	font-size: 32px;
+	line-height: 38px;
+	padding: 0 10px;
+	margin: 0;
+	color: #333;
+	font-family: 'SFNS','San Francisco';
+}
+
+h3{
+	font-weight: 100;
+	font-size: 24px;
+	line-height: 55px;
+	padding: 0 10px;
+	cursor: pointer;
+	color: #0088cc;
+	font-family: 'SFNS','San Francisco';
+}
+
+h3 a{
+	color: #0088cc;
+	font-family: 'SFNS','San Francisco';
+}
+
+h3 a:hover{
+	text-decoration: underline;
+}
+
+a{
+	color: black;
+	text-decoration: none;
+}
+
+#mixx24{
+	position: relative;
+	width: 100%;
+    height: auto;
+    margin: 280px auto 0;
+}
+
+#mixxinfo{
+	position: absolute;
+	top: -150px;
+	text-align: center;
+	left: 20%;
+	max-width: 450px;
+}
+
+#mixximg{
+	/*position: relative;*/
+	width: 100%;
+	height: auto;
+	margin: 0 auto;
+
+}
+
+.mixxlogo{
+	display: inline-block;
+	height:  45px;
+	padding: 0 10px;
+	margin: 0 auto;
+}
+
+
+
+#companionship{
+	position: relative;
+	width: 100%;
+    height: auto;
+    margin: 250px auto 0;
+
+}
+
+#companionshipinfo{
+	position: absolute;
+	top: -100px;
+	text-align: center;
+	max-width: 500px;
+	right: 10%;
+	margin: 0 auto;
+}
+
+
+#companionshipimg{
+	/*position: relative;*/
+	width: 80%;
+	height: auto;
+	display: block;
+	margin: 0 auto;
+
+}
+
+
+#wetea{
+	position: relative;
+	width: 100%;
+    height: auto;
+    margin: 280px auto 0;
+
+}
+
+#weteainfo{
+	position: absolute;
+	top: -130px;
+	text-align: center;
+	right: 0;left: 0;
+	margin: 0 auto;
+}
+
+#weteaimg{
+	width: 80%;
+	height: auto;
+	display: block;
+	margin: 0 auto;
+}
+
+
+@media screen and (max-width: 1190px) {
+
+
+h1{
+
+	font-size: 40px;
+	line-height: 55px;
+
+}
+
+h2{
+
+	font-size: 26px;
+	line-height: 30px;
+
+}
+
+h3{
+
+	font-size: 20px;
+	line-height: 50px;
+}
+
+#companionshipinfo{right: 5%;}
+
+.mixxlogo{
+	height:  35px;
+}
+
+}
+
+
+@media screen and (max-width: 950px) {
+
+
+#mixx24{
+	position: relative;
+	width: 100%;
+    height: auto;
+    margin: 30px auto 0;
+}
+
+#mixxinfo{
+	position: relative;
+	top: 50px;
+	padding: 0 50px;
+	text-align: center;left: 0;right: 0;
+	margin: 0 auto;
+}
+
+#companionshipinfo{
+	position: relative;
+	top: 10px;
+	padding: 0 50px;
+	text-align: center;left: 0;right: 0;
+	margin: 0 auto;
+}
+
+#companionship{
+
+    margin: 150px auto 0;
+
+}
+
+
+
+}
+
+@media screen and (max-width: 376px) {
+h1{
+
+	font-size: 32px;
+	line-height: 38px;
+
+}
+
+h2{
+
+	font-size: 20px;
+	line-height: 26px;
+
+}
+
+h3{
+
+	font-size: 16px;
+	line-height: 40px;
+}
+
+.mixxlogo{
+
+	height:  30px;
+
+}
+
+}
+
+
+
+@media screen and (max-width: 550px) {
+
+#mixx24{
+	position: relative;
+	width: 100%;
+    height: auto;
+    margin: 30px auto 0;
+}
+
+#mixxinfo{
+	position: relative;
+	top: 0;
+	padding: 0 50px;
+	text-align: center;left: 0;
+	margin: 0 auto;
+}
+
+#mixximg{
+	display: block;
+	margin: 0 auto;
+	width: 180%;
+}
+
+#companionship{
+	position: relative;
+
+	width: 100%;
+    height: auto;
+    margin: 70px auto 0;
+
+}
+
+#companionshipinfo{
+	position: relative;
+	padding: 0 35px;
+	top: 0;
+	text-align: center;
+	right: 0;left: 0;
+	margin: 0 auto;
+}
+
+#companionshipimg{
+	width: 100%;
+}
+
+#wetea{
+	position: relative;
+	width: 100%;
+    height: auto;
+    margin: 70px auto 0;
+
+}
+
+#weteainfo{
+	position: relative;
+	padding: 0 35px;
+	top: 0;
+	text-align: center;
+	right: 0;left: 0;
+	margin: 0 auto;
+}
+
+#weteaimg{
+	width: 100%;
+}
+
+
+
+}
+
+
+
+

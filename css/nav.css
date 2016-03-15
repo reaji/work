@@ -1,0 +1,94 @@
+#nav{
+	position: relative;
+	top:10px;
+  margin: 0 auto;
+  width: 500px;
+/*  background:yellow;*/
+  height: 43px;
+}
+
+.title{
+  font-size: 26pt;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 6px;
+  margin: 0 auto;
+  max-width: 230px;
+  cursor: pointer;
+  font-family: 'San Francisco', helvetica;
+  text-indent: 6px;
+}
+
+.manu.about{
+  position: absolute;
+  top:12px;
+  left: 10px;
+  height: 21px;
+  cursor: pointer;
+  text-align: right;
+
+}
+
+.manu.about:hover{
+  border-bottom: 1px solid black;
+  color: black;
+}
+
+.manu.works:hover{
+  border-bottom: 1px solid black;
+  color: black;
+}
+
+.manu.works{
+  position: absolute;
+  top:12px;
+  right: 10px;
+  height: 21px;
+  cursor: pointer;
+}
+
+.manu{
+    display: block;
+    font-size: 1.17em;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-size: 12pt;
+    font-weight: 500;
+    margin: 0 auto;
+    letter-spacing: 0.6px;
+}
+
+
+@media screen and (max-width: 1000px) {
+	#nav{
+  		margin-bottom: 30px;
+	}
+
+}
+
+@media screen and (max-width: 520px) {
+#nav{
+  width: 230px;
+  height: 86px;
+  margin-bottom: 0;
+}
+
+
+
+.manu.about{
+  position: absolute;
+  top:40px;
+  left: 5px;
+
+}
+
+.manu.works{
+  position: absolute;
+  top:40px;
+  right: 8px;
+
+}
+
+}
