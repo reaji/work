@@ -370,7 +370,7 @@ h3{
 	position: relative;
 	width: 100%;
     height: auto;
-    margin: 70px auto 0;
+    margin: 100px auto 0;
 
 }
 
@@ -399,7 +399,7 @@ h3{
 	position: relative;
 	width: 100%;
     height: auto;
-    margin: 90px auto 0;
+    margin: 100px auto 0;
 
 }
 
@@ -420,6 +420,34 @@ h3{
 #weteaimgmobile{
 	display: block;
 	width: 100%;
+}
+
+#monsterpho{
+	position: relative;
+	width: 100%;
+    height: auto;
+    margin: 100px auto 0;
+
+}
+
+#monsterphoinfo{
+	position: relative;
+	padding: 0 35px;
+	top: 0;
+	text-align: center;
+	right: 0;left: 0;
+	margin: 0 auto;
+}
+
+
+#monsterphoimg{
+	display: none;
+}
+
+#monsterphoimgmobile{
+	display: block;
+	margin-left:100px;
+	height: 450px;
 }
 
 }
