@@ -1,6 +1,5 @@
 html, body{
 	width: 100%;
-	height: 100%;
 	overflow-x:hidden;
 	margin: 0; 
 	background: #fff; /* For browsers that do not support gradients */
@@ -186,28 +185,36 @@ a{
 
 }
 
+#companionshipimgmobile{
+display: none;
+}
+
+
 
 #wetea{
 	position: relative;
 	width: 100%;
     height: auto;
-    margin: 280px auto 0;
+    margin: 350px auto 0;
 
 }
 
 #weteainfo{
 	position: absolute;
-	top: -130px;
+	top: -180px;
 	text-align: center;
 	right: 0;left: 0;
 	margin: 0 auto;
 }
 
 #weteaimg{
-	width: 80%;
+	width: 95%;
 	height: auto;
 	display: block;
-	margin: 0 auto;
+}
+
+#weteaimgmobile{
+	display: none;
 }
 
 
@@ -316,12 +323,12 @@ h3{
 	position: relative;
 	width: 100%;
     height: auto;
-    margin: 30px auto 0;
+    margin: 10px auto 0;
 }
 
 #mixxinfo{
 	position: relative;
-	top: 0;
+	top: 30px;
 	padding: 0 50px;
 	text-align: center;left: 0;
 	margin: 0 auto;
@@ -335,7 +342,6 @@ h3{
 
 #companionship{
 	position: relative;
-
 	width: 100%;
     height: auto;
     margin: 70px auto 0;
@@ -352,14 +358,22 @@ h3{
 }
 
 #companionshipimg{
-	width: 100%;
+	display: none
+}
+
+#companionshipimgmobile{
+	position: relative;
+	display: block;
+	width: 90%;
+	right: -110px;
+	
 }
 
 #wetea{
 	position: relative;
 	width: 100%;
     height: auto;
-    margin: 70px auto 0;
+    margin: 90px auto 0;
 
 }
 
@@ -372,11 +386,15 @@ h3{
 	margin: 0 auto;
 }
 
+
 #weteaimg{
-	width: 100%;
+	display: none;
 }
 
-
+#weteaimgmobile{
+	display: block;
+	width: 100%;
+}
 
 }
 
