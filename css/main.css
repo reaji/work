@@ -46,6 +46,12 @@ html, body{
   height: 100%;
 }
 
+video{
+  display: block;
+  width: 90%;
+  height: auto;
+  margin: 0 auto;
+}
 
 #content{
 	position: relative;
@@ -277,6 +283,11 @@ table {
 td{
     /*height: 310px;*/
     /*vertical-align: middle;*/
+}
+
+iframe{
+  display: block;
+  margin: 0 auto;
 }
 
 .continue{

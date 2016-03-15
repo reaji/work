@@ -2,11 +2,11 @@ html, body{
 	width: 100%;
 	overflow-x:hidden;
 	margin: 0; 
-	background: #fff; /* For browsers that do not support gradients */
-    background: -webkit-linear-gradient(#fff, #FAFAFA); /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(#fff, #FAFAFA); /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(#fff, #FAFAFA); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(#fff, #FAFAFA); /* Standard syntax (must be last) */
+/*	background: #fff; 
+    background: -webkit-linear-gradient(#fff, #FAFAFA); 
+    background: -o-linear-gradient(#fff, #FAFAFA); 
+    background: -moz-linear-gradient(#fff, #FAFAFA); 
+    background: linear-gradient(#fff, #FAFAFA); */
 }
 
 *::-webkit-scrollbar { 
@@ -191,6 +191,7 @@ display: none;
 
 
 
+
 #wetea{
 	position: relative;
 	width: 100%;
@@ -241,6 +242,38 @@ display: none;
 
 #monsterphoimgmobile{
 	display: none;
+}
+
+
+#unown{
+	position: relative;
+	width: 100%;
+    height: auto;
+    margin: 200px auto 40px;
+
+}
+
+#unowninfo{
+	position: absolute;
+	top: 15%;
+	text-align: center;
+	max-width: 500px;
+	right: 0;left: 0;
+	margin: 0 auto;
+}
+
+
+#unownimg{
+	/*position: relative;*/
+	width: 100%;
+	height: auto;
+	display: block;
+	
+
+}
+
+#unownimgmobile{
+display: none;
 }
 
 
@@ -308,27 +341,31 @@ h3{
 
 }
 
-
+#unowninfo{
+	
+	top: 5%;
 
 }
 
-@media screen and (max-width: 376px) {
-h1{
+}
 
+@media screen and (max-width: 420px) {
+h1{
+	font-weight: 300;
 	font-size: 32px;
 	line-height: 38px;
 
 }
 
 h2{
-
+	font-weight: 200;
 	font-size: 20px;
 	line-height: 26px;
 
 }
 
 h3{
-
+	font-weight: 200;
 	font-size: 16px;
 	line-height: 40px;
 }
@@ -448,6 +485,34 @@ h3{
 	display: block;
 	margin-left:100px;
 	height: 450px;
+}
+
+
+#unown{
+	position: relative;
+	width: 100%;
+    height: auto;
+    margin: 100px auto 70px;
+
+}
+
+#unowninfo{
+	position: relative;
+	padding: 0 35px;
+	top: 0;
+	text-align: center;
+	right: 0;left: 0;
+	margin: 0 auto;
+}
+
+#unownimg{
+	display: none
+}
+
+#unownimgmobile{
+	position: relative;
+	display: block;
+	width: 100%;	
 }
 
 }
