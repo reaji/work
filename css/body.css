@@ -217,6 +217,32 @@ display: none;
 	display: none;
 }
 
+#monsterpho{
+	position: relative;
+	width: 100%;
+    height: auto;
+    margin: 350px auto 0;
+
+}
+
+#monsterphoinfo{
+	position: absolute;
+	top: -180px;
+	text-align: center;
+	right: 0;left: 0;
+	margin: 0 auto;
+}
+
+#monsterphoimg{
+	width: 100%;
+	height: auto;
+	display: block;
+}
+
+#monsterphoimgmobile{
+	display: none;
+}
+
 
 @media screen and (max-width: 1190px) {
 
