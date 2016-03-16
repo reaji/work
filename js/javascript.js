@@ -9,6 +9,7 @@ $(document).ready(function(){
 	$('.turnoff').click(function(){
 		$('#facebookarchive').fadeIn('slow');
 		$('#facebookarchivevideo').fadeOut('fast');
+		
 	});
 	
 
