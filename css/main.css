@@ -61,29 +61,6 @@ video{
   margin: 0 auto;
 }
 
-/*navvvvvvvvvvvvvvvvvvvvvvvvv*/
-
-#nav{
-	position: relative;
-	top:10px;
-  margin: 0 auto;
-  width: 500px;
-/*  background:yellow;*/
-  height: 43px;
-}
-
-
-.title{
-  font-size: 26pt;
-  font-weight: 700;
-  text-align: center;
-  letter-spacing: 6px;
-  margin: 0 auto;
-  max-width: 230px;
-  cursor: pointer;
-  font-family: 'San Francisco', sans-serif;
-  text-indent: 6px;
-}
 
 a{
   text-decoration: none;
@@ -91,61 +68,6 @@ a{
 }
 
 
-
-
-
-
-.manu{
-    display: block;
-    font-size: 1.17em;
-    -webkit-margin-before: 1em;
-    -webkit-margin-after: 1em;
-    -webkit-margin-start: 0px;
-    -webkit-margin-end: 0px;
-    font-size: 12pt;
-    font-weight: 500;
-    margin: 0 auto;
-    letter-spacing: 0.6px;
-}
-
-.manu.about{
-  position: absolute;
-  top:12px;
-  left: 10px;
-  height: 21px;
-  cursor: pointer;
-  text-align: right;
-
-}
-
-.manu.about:hover{
-  border-bottom: 1px solid black;
-  color: black;
-}
-
-/*.manu.about:active{
-  top:8px;
-}*/
-
-.manu.works:hover{
-  border-bottom: 1px solid black;
-  color: black;
-}
-
-/*.manu.works:active{
-  top:8px;
-}*/
-
-
-.manu.works{
-  position: absolute;
-  top:12px;
-  right: 10px;
-  height: 21px;
-  cursor: pointer;
-
-}
-/*navvvvvvvvvvvvvvvvvvvvvvvvv ennnnnnnnds*/
 
 #mixx{
    margin: 80px auto 80px;
@@ -363,119 +285,6 @@ p{
 }
 
 /*mybutttttttttttttttttttttttttttt*/
-#mybutt{
-  position: relative;
-  bottom: 0;
-  width: 100%;
-  height: 20px;
-  /*margin-bottom: -3px;*/
-  /*background: #333;*/
-/*  border-top: .08em solid #444;
-  border-bottom: 1px solid #444 outset;*/
-/*  opacity: 0.95;*/
-}
-
-.mycopyright{
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 120px;
-  height: 20px;
-  text-align: center;
-  /*border-right: .08em solid #444;*/
-}
-
-/*.mycopyright:hover{
-  background: #444;
-}*/
-
-.mycopyright a:hover{
-  text-decoration: none;
-  color: black;
-}
-
-.mycopyright .myrightfont{
-  font-size: 8.5pt;
-  vertical-align: 1.5px;
-  /*line-height: 10px;*/
-  color:#999;
-}
-
-.mycopyright .myrightfont .mycopyrightc{
-  font-size: 8.5pt;
-  
-}
-
-.mysharebuttom1{
-  position: absolute;
-  right:0;
-  top: 0;
-  width: 20px;
-  height: 20px;
-  text-align: center;
-  font-weight: 900;
-  color: #777;
-  cursor: pointer;
-}
-
-.mysharebuttom1:hover{
-  color: white;
-  background: #3b5998;
-}
-
-.mysharebuttom2{
-  position: absolute;
-  right:20px;
-  top: 0;
-  width: 20px;
-  height: 20px;
-  text-align: center;
-  font-weight: 900;
-  color: #777;
-  cursor: pointer;
-}
-
-.mysharebuttom2:hover{
-  color: white;
-/*  background: #36465d;*/
-  background:#55acee;
-
-}
-
-.mysharebuttom3{
-  position: absolute;
-  right:40px;
-  top: 0;
-  width: 20px;
-  height: 20px;
-  text-align: center;
-  font-weight: 900;
-  color: #777;
-  cursor: pointer;
-}
-
-.mysharebuttom3:hover{
-  color: white;
-  background: #3f729b;
-}
-
-.mysharebuttom4{
-  position: absolute;
-  right:60px;
-  top: 0;
-  width: 20px;
-  height: 20px;
-  text-align: center;
-  font-weight: 900;
-  color: #777;
-  cursor: pointer;
-}
-
-.mysharebuttom4:hover{
-  color: white;
-  background: #55acee;
-
-}
 
 
 
@@ -543,15 +352,12 @@ p{
   /*padding: 0 50px 0 50px;*/
 }
 
-#nav{
-  margin-bottom: 30px;
-}
 
 table {
     width: 100%;
 }
 
-#mybutt{position: relative;}
+
 
 }
 
@@ -566,30 +372,7 @@ table {
 }
 
 
-@media screen and (max-width: 520px) {
-#nav{
-  width: 230px;
-  height: 86px;
-  margin-bottom: 0;
-}
 
-
-
-.manu.about{
-  position: absolute;
-  top:40px;
-  left: 5px;
-
-}
-
-.manu.works{
-  position: absolute;
-  top:40px;
-  right: 8px;
-
-}
-
-}
 
 @media screen and (max-width: 350px) {}
 
