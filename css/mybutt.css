@@ -1,6 +1,6 @@
 
 #mybutt{
-  position: relative;
+  position: fixed;
   bottom: 0;
   width: 100%;
   height: 20px;
@@ -21,6 +21,16 @@
   /*border-right: .08em solid #444;*/
 }
 
+.mycontact{
+  position: absolute;
+  left: 120px;
+  top: 0;
+  width: 80px;
+  height: 20px;
+  text-align: center;
+  /*border-right: .08em solid #444;*/
+}
+
 /*.mycopyright:hover{
   background: #444;
 }*/
@@ -30,7 +40,12 @@
   color: black;
 }
 
-.mycopyright .myrightfont{
+.mycontact a:hover{
+  text-decoration: none;
+  color: black;
+}
+
+.mycopyright .myrightfont, .mycontact .myrightfont{
   font-size: 8.5pt;
   vertical-align: 1.5px;
   /*line-height: 10px;*/
@@ -39,6 +54,7 @@
 
 .mycopyright .myrightfont .mycopyrightc{
   font-size: 8.5pt;
+  font-family: helvetica;
   
 }
 
@@ -115,6 +131,6 @@
 
 @media screen and (max-width: 1000px) {
 
-#mybutt{position: relative;}
+#mybutt{position: fixed;}
 
 }
