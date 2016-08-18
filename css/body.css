@@ -112,6 +112,16 @@ h3{
 	font-family: 'SFNS','San Francisco';
 }
 
+h4{
+	margin: 0;
+	color: #555;
+	font-weight: 500;
+}
+
+h4 span{
+	color: #1497FC;
+}
+
 h3 a{
 	color: #0088cc;
 	font-family: 'SFNS','San Francisco';
@@ -126,11 +136,51 @@ a{
 	text-decoration: none;
 }
 
+#bubble{
+	position: relative;
+	width: 100%;
+    height: auto;
+    margin: 120px auto 0;
+    scroll-snap-type: mandatory;
+  scroll-snap-points-y: repeat(100%);
+}
+
+#bubbleinfo{
+	position: absolute;
+	top: -30px;
+	text-align: center;
+	right: 8%;
+	max-width: 450px;
+	cursor: default;
+}
+
+#bubbleimg{
+	/*position: relative;*/
+	width: 80%;
+	display: block;
+	height: auto;
+	margin: 0 auto;
+}
+
+#bubbleimgmobile{
+	display: none;
+}
+
+.bubblelogo{
+	display: inline-block;
+	height:  100px;
+	padding: 0 10px;
+	margin: 0 auto;
+}
+
+
+
 #mixx24{
 	position: relative;
 	width: 100%;
     height: auto;
-    margin: 280px auto 0;
+    margin: 300px auto 0;
+    scroll-snap-align:center;
 }
 
 #mixxinfo{
@@ -164,6 +214,7 @@ a{
 	width: 100%;
     height: auto;
     margin: 250px auto 0;
+    scroll-snap-align:center;
 
 }
 
@@ -207,6 +258,7 @@ display: none;
 	top: -180px;
 	text-align: center;
 	right: 0;left: 0;
+	padding: 0 15px;
 	margin: 0 auto;
 	cursor: default;
 }
@@ -233,13 +285,16 @@ display: none;
 	position: absolute;
 	top: -180px;
 	text-align: center;
+	padding: 15px;
 	right: 0;left: 0;
 	margin: 0 auto;
 	cursor: default;
 }
 
 #monsterphoimg{
-	width: 100%;
+	display: block;
+	margin: 0 auto;
+	width: 90%;
 	height: auto;
 	display: block;
 }
@@ -347,10 +402,20 @@ h3{
 	line-height: 50px;
 }
 
+h4{
+	font-size: 14px;
+}
+
+#bubbleinfo{
+	top: -70px;
+	right: 7%;
+}
+
+#bubble{margin-top: 200px;}
+
 #facebookarchiveinfo{
 	max-width: 400px;
 	top: 80px;
-
 }
 
 #companionshipinfo{right: 5%;}
@@ -365,11 +430,28 @@ h3{
 @media screen and (max-width: 950px) {
 
 
-#mixx24{
+#bubble{
 	position: relative;
 	width: 100%;
     height: auto;
-    margin: 30px auto 0;
+    margin: -30px auto 0;
+}
+
+.bubblelogo{
+	display: none;
+}
+
+#mixx24{
+    margin: 150px auto 0;
+
+}
+
+#bubbleinfo{
+	position: relative;
+	top: 0;
+	padding: 0 50px;
+	text-align: center;left: 0;right: 0;
+	margin: 0 auto;
 }
 
 #mixxinfo{
@@ -389,7 +471,6 @@ h3{
 }
 
 #companionship{
-
     margin: 150px auto 0;
 
 }
@@ -460,11 +541,11 @@ h3{
 
 @media screen and (max-width: 550px) {
 
-#mixx24{
+#bubble{
 	position: relative;
 	width: 100%;
     height: auto;
-    margin: 10px auto 0;
+    margin: -20px auto 0;
 }
 
 #mixxinfo{
@@ -475,6 +556,14 @@ h3{
 	margin: 0 auto;
 }
 
+#bubbleinfo{
+	position: relative;
+	top: 15px;
+	padding: 0 50px;
+	text-align: center;left: 0;right: 0;
+	margin: 0 auto;
+}
+
 #mixximg{
 	display: block;
 	margin: 0 auto;
@@ -482,6 +571,13 @@ h3{
 }
 
 #companionship{
+	position: relative;
+	width: 100%;
+    height: auto;
+    margin: 100px auto 0;
+}
+
+#mixx24{
 	position: relative;
 	width: 100%;
     height: auto;
@@ -532,9 +628,19 @@ h3{
 	display: none;
 }
 
+#bubbleimg{
+	display: none;
+}
+
 #weteaimgmobile{
 	display: block;
 	width: 100%;
+}
+
+#bubbleimgmobile{
+	display: block;
+	width: 90%;
+	margin: 0 auto;
 }
 
 #monsterpho{

@@ -1,0 +1,149 @@
+
+#mybutt{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 20px;
+  /*margin-bottom: -3px;*/
+  /*background: #333;*/
+/*  border-top: .08em solid #444;
+  border-bottom: 1px solid #444 outset;*/
+/*  opacity: 0.95;*/
+}
+
+#mybutt a{
+  text-decoration: none;
+}
+
+#mybutt *{
+  font-family: 'San Francisco', 'SFCD';  
+}
+
+#mybutt a:hover{
+  /*text-decoration: underline;*/
+  cursor: pointer;
+}
+
+.mycopyright{
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 120px;
+  height: 20px;
+  text-align: center;
+  /*border-right: .08em solid #444;*/
+}
+
+.mycontact{
+  position: absolute;
+  left: 120px;
+  top: 0;
+  width: 80px;
+  height: 20px;
+  text-align: center;
+  /*border-right: .08em solid #444;*/
+}
+
+/*.mycopyright:hover{
+  background: #444;
+}*/
+
+.mycopyright a:hover{
+  text-decoration: none;
+  color: black;
+}
+
+.mycontact a:hover{
+  text-decoration: none;
+  color: black;
+}
+
+.mycopyright .myrightfont, .mycontact .myrightfont{
+  font-size: 8.5pt;
+  vertical-align: 1.5px;
+  /*line-height: 10px;*/
+  color:#999;
+}
+
+.mycopyright .myrightfont .mycopyrightc{
+  font-size: 8.5pt;
+  font-family: 'San Francisco', 'SFCD';  
+  
+}
+
+.mysharebuttom1{
+  position: absolute;
+  right:0;
+  top: 0;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  font-weight: 900;
+  color: #777;
+  cursor: pointer;
+}
+
+.mysharebuttom1:hover{
+  color: white;
+  background: #3b5998;
+}
+
+.mysharebuttom2{
+  position: absolute;
+  right:20px;
+  top: 0;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  font-weight: 900;
+  color: #777;
+  cursor: pointer;
+}
+
+.mysharebuttom2:hover{
+  color: white;
+/*  background: #36465d;*/
+  background:#55acee;
+
+}
+
+.mysharebuttom3{
+  position: absolute;
+  right:40px;
+  top: 0;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  font-weight: 900;
+  color: #777;
+  cursor: pointer;
+}
+
+.mysharebuttom3:hover{
+  color: white;
+  background: #3f729b;
+}
+
+.mysharebuttom4{
+  position: absolute;
+  right:60px;
+  top: 0;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  font-weight: 900;
+  color: #777;
+  cursor: pointer;
+}
+
+.mysharebuttom4:hover{
+  color: white;
+  background: #55acee;
+
+}
+
+@media screen and (max-width: 1000px) {
+
+#mybutt{position: fixed;}
+
+}

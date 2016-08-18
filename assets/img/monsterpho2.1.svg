@@ -1,356 +1,142 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 3260.3 2160" style="enable-background:new 0 0 3260.3 2160;" xml:space="preserve">
+	 viewBox="0 0 2646.7 405.1" style="enable-background:new 0 0 2646.7 405.1;" xml:space="preserve">
 <style type="text/css">
-	.st0{opacity:0.8;fill:#F05A5A;}
-	.st1{opacity:0.8;fill:#FF6666;}
-	.st2{opacity:0.8;fill:#F7ADAF;}
-	.st3{opacity:0.8;fill:#F3807F;}
-	.st4{fill:#5FC2AE;}
-	.st5{opacity:0.8;fill:#FACDD0;}
-	.st6{opacity:0.55;fill:#C4B3D7;}
-	.st7{opacity:0.8;fill:#71B9E6;}
-	.st8{opacity:0.4;fill:#71B9E6;}
-	.st9{fill:#F9A22B;}
-	.st10{fill:#4DBEA2;}
-	.st11{fill:none;stroke:#4DBEA2;stroke-width:3;stroke-miterlimit:10;}
-	.st12{fill:none;stroke:#4DBEA2;stroke-width:4;stroke-miterlimit:10;}
-	.st13{fill:#4DBEA2;stroke:#409B81;stroke-width:3;stroke-miterlimit:10;}
-	.st14{fill:#61C3AE;}
-	.st15{fill:#FFFFFF;}
-	.st16{fill:#6D6E70;}
-	.st17{fill:#808184;}
-	.st18{fill:none;stroke:#808184;stroke-miterlimit:10;}
-	.st19{opacity:0.15;fill:#4DBEA2;}
-	.st20{fill:none;stroke:#61C3AE;stroke-width:8;stroke-miterlimit:10;}
-	.st21{fill:none;stroke:#61C3AE;stroke-width:3;stroke-miterlimit:10;}
-	.st22{fill:none;stroke:#4DBEA2;stroke-width:2;stroke-miterlimit:10;}
-	.st23{fill:#4DBEA2;stroke:#409B81;stroke-width:2;stroke-miterlimit:10;}
-	.st24{opacity:0.8;fill:#F38180;}
-	.st25{opacity:0.4;fill:#F7ADAF;}
-	.st26{opacity:0.95;fill:#70B8E6;}
-	.st27{fill:#C4B4D7;}
-	.st28{opacity:0.8;}
-	.st29{fill:none;}
-	.st30{font-family:'OpenSans';}
-	.st31{font-size:13.9723px;}
-	.st32{font-size:13px;}
-	.st33{font-size:8px;}
-	.st34{font-size:10px;}
-	.st35{font-family:'OpenSans-Semibold';}
-	.st36{font-size:9.6059px;}
-	.st37{font-size:13.099px;}
-	.st38{font-family:'OpenSans-Light';}
-	.st39{font-size:53px;}
-	.st40{fill:none;stroke:#61C3AE;stroke-width:4;stroke-miterlimit:10;}
-	.st41{font-size:27.9445px;}
-	.st42{font-size:12.2257px;}
-	.st43{font-size:25.3247px;}
-	.st44{opacity:0.8;fill:#4DBEA2;}
-	.st45{font-size:34px;}
-	.st46{font-size:42.79px;}
-	.st47{font-size:21.8316px;}
-	.st48{font-size:12px;}
+	.st0{fill:none;stroke:#52B79F;stroke-width:3;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#52B79F;stroke-width:4;stroke-miterlimit:10;}
+	.st2{fill:#52B79F;}
+	.st3{fill:none;}
+	.st4{fill:#64BEAB;}
+	.st5{font-family:'OpenSans';}
+	.st6{font-size:13.9723px;}
+	.st7{font-size:13px;}
+	.st8{fill:#FFFFFF;}
+	.st9{font-size:8px;}
+	.st10{font-size:10px;}
+	.st11{font-family:'OpenSans-Semibold';}
+	.st12{fill:#6D6E71;}
+	.st13{font-size:9.6059px;}
+	.st14{font-size:25.3247px;}
 </style>
-<line class="st11" x1="1259.4" y1="1021.8" x2="1312.4" y2="1021.8"/>
-<line class="st11" x1="670.2" y1="1021.8" x2="728" y2="1021.8"/>
-<line class="st11" x1="556.3" y1="1021.8" x2="622.7" y2="1021.8"/>
-<line class="st11" x1="909.6" y1="1021.8" x2="957.8" y2="1021.8"/>
-<line class="st11" x1="808.2" y1="1021.8" x2="848.3" y2="1021.8"/>
-<circle class="st12" cx="494.8" cy="1021.8" r="61.6"/>
-<line class="st11" x1="1016.7" y1="1021.8" x2="1061.4" y2="1021.8"/>
-<line class="st11" x1="1152.8" y1="1021.8" x2="1210.4" y2="1021.8"/>
-<circle class="st10" cx="639.6" cy="1021.8" r="30.6"/>
-<circle class="st10" cx="878.9" cy="1021.8" r="30.6"/>
-<circle class="st10" cx="986.1" cy="1021.8" r="30.6"/>
-<line class="st11" x1="1373" y1="1021.8" x2="1436.6" y2="1021.8"/>
-<rect x="447.7" y="998.8" class="st29" width="94.1" height="50.5"/>
-<text transform="matrix(1 0 0 1 462.7774 1009.4694)"><tspan x="0" y="0" class="st14 st30 st31">Customer </tspan><tspan x="-13.1" y="16.8" class="st14 st30 st31">Journey starts </tspan><tspan x="17" y="33.5" class="st14 st30 st31">here</tspan></text>
-<line class="st11" x1="1630.6" y1="1021.8" x2="1701.4" y2="1021.8"/>
-<circle class="st12" cx="3014.3" cy="1021.4" r="61.6"/>
-<rect x="2967.2" y="998.1" class="st29" width="94.1" height="52.1"/>
-<text transform="matrix(1 0 0 1 2984.5642 1007.9363)"><tspan x="0" y="0" class="st14 st30 st32">Customer </tspan><tspan x="-9.9" y="15.6" class="st14 st30 st32">Journey ends </tspan><tspan x="15.8" y="31.2" class="st14 st30 st32">here</tspan></text>
-<rect x="615.8" y="1010.3" class="st29" width="47.6" height="28.1"/>
-<text transform="matrix(1 0 0 1 622.6906 1016.3777)"><tspan x="0" y="0" class="st15 st30 st33">Finding a </tspan><tspan x="-4.7" y="9.6" class="st15 st30 st33">place to eat</tspan></text>
-<rect x="855.1" y="1016.8" class="st29" width="47.6" height="9.9"/>
-<text transform="matrix(1 0 0 1 860.217 1024.4021)" class="st15 st30 st34">Internet </text>
-<rect x="962.2" y="1007.7" class="st29" width="47.6" height="43.7"/>
-<text transform="matrix(1 0 0 1 973.8079 1015.2606)"><tspan x="0" y="0" class="st15 st30 st34">What </tspan><tspan x="-3.7" y="12" class="st15 st30 st34">People </tspan><tspan x="4.6" y="24" class="st15 st30 st34">say</tspan></text>
-<line class="st11" x1="2117.6" y1="1021.8" x2="2181.3" y2="1021.8"/>
-<circle class="st10" cx="1228.8" cy="1021.8" r="30.6"/>
-<line class="st11" x1="1517.7" y1="1021.8" x2="1581.4" y2="1021.8"/>
-<rect x="1205" y="1017.1" class="st29" width="47.6" height="14.5"/>
-<text transform="matrix(1 0 0 1 1213.972 1024.7136)" class="st15 st30 st34">Enters</text>
-<circle class="st10" cx="1342.3" cy="1021.8" r="30.6"/>
-<line class="st11" x1="2260.2" y1="1021.8" x2="2323.8" y2="1021.8"/>
-<rect x="1318.5" y="1011.1" class="st29" width="47.6" height="33.5"/>
-<text transform="matrix(1 0 0 1 1323.4182 1018.7108)"><tspan x="0" y="0" class="st15 st30 st34">Greeted </tspan><tspan x="-2.5" y="12" class="st15 st30 st34">by server</tspan></text>
-<circle class="st10" cx="1599.9" cy="1021.8" r="30.6"/>
-<line class="st11" x1="1787.2" y1="1021.8" x2="1850.9" y2="1021.8"/>
-<line class="st11" x1="1895.5" y1="1021.8" x2="1959.2" y2="1021.8"/>
-<line class="st11" x1="2380.5" y1="1021.8" x2="2444.1" y2="1021.8"/>
-<line class="st11" x1="2011.7" y1="1021.8" x2="2075.4" y2="1021.8"/>
-<rect x="1576.1" y="1011.1" class="st29" width="47.6" height="31.3"/>
-<text transform="matrix(1 0 0 1 1582.5463 1018.6766)"><tspan x="0" y="0" class="st15 st30 st34">Browse </tspan><tspan x="3.9" y="12" class="st15 st30 st34">Menu</tspan></text>
-<circle class="st10" cx="1879.4" cy="1021.8" r="30.6"/>
-<rect x="1855.6" y="1010.1" class="st29" width="47.6" height="26.1"/>
-<text transform="matrix(1 0 0 1 1861.861 1017.74)"><tspan x="0" y="0" class="st15 st30 st34">Waiting </tspan><tspan x="-1.3" y="12" class="st15 st30 st34">for food</tspan></text>
-<circle class="st10" cx="1982.8" cy="1021.8" r="30.6"/>
-<rect x="1959" y="1007.4" class="st29" width="47.6" height="31.6"/>
-<text transform="matrix(1 0 0 1 1971.1379 1014.9842)"><tspan x="0" y="0" class="st15 st30 st34">Food </tspan><tspan x="-4.1" y="12" class="st15 st30 st34">arrives </tspan></text>
-<line class="st11" x1="2500.7" y1="1020.8" x2="2564.4" y2="1020.8"/>
-<circle class="st10" cx="2087" cy="1021.8" r="30.6"/>
-<line class="st11" x1="2614.1" y1="1020.8" x2="2677.8" y2="1020.8"/>
-<rect x="2063.2" y="1008.3" class="st29" width="47.6" height="29.9"/>
-<text transform="matrix(1 0 0 1 2072.2627 1015.8573)"><tspan x="0" y="0" class="st15 st30 st34">Adjust </tspan><tspan x="3.2" y="12" class="st15 st30 st34">taste</tspan></text>
-<line class="st11" x1="2736.2" y1="1021" x2="2799.9" y2="1021"/>
-<circle class="st10" cx="2349.8" cy="1021.8" r="30.6"/>
-<rect x="2326" y="1012.5" class="st29" width="47.6" height="34.9"/>
-<text transform="matrix(1 0 0 1 2329.7869 1020.119)"><tspan x="0" y="0" class="st15 st30 st34">Receives </tspan><tspan x="13.2" y="12" class="st15 st30 st34">bill</tspan></text>
-<circle class="st10" cx="2470.4" cy="1021.8" r="30.6"/>
-<rect x="2447.7" y="1005.4" class="st29" width="47.6" height="41.3"/>
-<text transform="matrix(1 0 0 1 2450.7385 1012.9988)"><tspan x="0" y="0" class="st15 st30 st34">Seperate </tspan><tspan x="15.7" y="12" class="st15 st30 st34">or </tspan><tspan x="0.8" y="24" class="st15 st30 st34">together</tspan></text>
-<circle class="st10" cx="2590.3" cy="1020.8" r="30.6"/>
-<circle class="st10" cx="759.8" cy="1021.4" r="48"/>
-<rect x="2566.5" y="1001.5" class="st29" width="47.6" height="39.9"/>
-<text transform="matrix(1 0 0 1 2575.1028 1009.1179)"><tspan x="0" y="0" class="st15 st30 st34">Taking </tspan><tspan x="4.4" y="12" class="st15 st30 st34">food </tspan><tspan x="1.7" y="24" class="st15 st30 st34">home</tspan></text>
-<circle class="st10" cx="2705.6" cy="1020.6" r="30.6"/>
-<rect x="2681.8" y="1016" class="st29" width="47.6" height="18.5"/>
-<text transform="matrix(1 0 0 1 2685.0181 1023.5837)" class="st15 st30 st34">Payment</text>
-<line class="st11" x1="2888.3" y1="1021" x2="2952" y2="1021"/>
-<rect x="729.4" y="1015.4" class="st29" width="58.8" height="12.8"/>
-<text transform="matrix(1 0 0 1 735.8831 1025.2625)" class="st15 st30 st32">Explore</text>
-<circle class="st10" cx="1749.4" cy="1023.6" r="48"/>
-<rect x="1720" y="1007.1" class="st29" width="58.8" height="32.9"/>
-<text transform="matrix(1 0 0 1 1730.3927 1017.0002)"><tspan x="0" y="0" class="st15 st30 st32">Places </tspan><tspan x="2.2" y="15.6" class="st15 st30 st32">order</tspan></text>
-<circle class="st10" cx="2220.5" cy="1021.8" r="48"/>
-<rect x="2191.1" y="1015.5" class="st29" width="58.8" height="15.5"/>
-<text transform="matrix(1 0 0 1 2201.7803 1025.3484)" class="st15 st30 st32">Eating</text>
-<circle class="st10" cx="2840.4" cy="1020.6" r="48"/>
-<rect x="2811" y="1014" class="st29" width="58.8" height="15.5"/>
-<text transform="matrix(1 0 0 1 2817.2827 1023.8749)" class="st15 st30 st32">Leaving</text>
-<circle class="st10" cx="1469.7" cy="1021.8" r="48"/>
-<circle class="st10" cx="1105.8" cy="1021.1" r="48"/>
-<rect x="1440.2" y="1001.5" class="st29" width="58.8" height="60.8"/>
-<text transform="matrix(1 0 0 1 1446.4164 1011.3778)"><tspan x="0" y="0" class="st15 st35 st32">Seating </tspan><tspan x="11.3" y="15.6" class="st15 st35 st32">and </tspan><tspan x="5.2" y="31.2" class="st15 st35 st32">Menu</tspan></text>
-<text transform="matrix(0 -1 1 0 642.5725 941.3317)" class="st16 st30 st36">what is new and what people are talking about</text>
-<text transform="matrix(0 -1 1 0 986.0502 934.5854)"><tspan x="0" y="0" class="st16 st30 st36">What are friends and family saying is a good place</tspan><tspan x="0" y="11.5" class="st16 st30 st36">to eat</tspan></text>
-<text transform="matrix(0 -1 1 0 1106.5853 934.5854)"><tspan x="0" y="0" class="st16 st30 st36">After parking, makes pre-assumptions of </tspan><tspan x="0" y="11.5" class="st16 st30 st36">what kind of setting is inside</tspan></text>
-<text transform="matrix(0 -1 1 0 1231.7969 934.5854)" class="st16 st30 st36">Waits to be seated</text>
-<text transform="matrix(0 -1 1 0 1345.3217 934.5854)" class="st16 st30 st36">Asked how many guests there are </text>
-<text transform="matrix(0 -1 1 0 1474.4651 934.5854)" class="st16 st30 st36">Seated and is given a menu</text>
-<text transform="matrix(0 -1 1 0 1602.9038 934.5854)" class="st16 st30 st36">Asks questions regarding the food</text>
-<text transform="matrix(0 -1 1 0 1876.5872 934.5854)"><tspan x="0" y="0" class="st16 st30 st36">Sports Entertainment is provided, unsure</tspan><tspan x="0" y="11.5" class="st16 st30 st36">how long it will take</tspan></text>
-<text transform="matrix(0 -1 1 0 1986.6067 934.5854)" class="st16 st30 st36">Looks for visual appeal as well as freshness</text>
-<text transform="matrix(0 -1 1 0 2090.8157 934.5854)"><tspan x="0" y="0" class="st16 st30 st36">Customizes taste to their liking with the sauces</tspan><tspan x="0" y="11.5" class="st16 st30 st36">already on the table.</tspan></text>
-<text transform="matrix(0 -1 1 0 2223.4758 934.5854)" class="st16 st30 st36">Customer goes through dining experience</text>
-<text transform="matrix(0 -1 1 0 2355.271 934.5854)" class="st16 st30 st36">Determines whether the meal was worth the money</text>
-<text transform="matrix(0 -1 1 0 2473.4219 934.5854)" class="st16 st30 st36">Pays individually or as a whole</text>
-<text transform="matrix(0 -1 1 0 2593.6716 934.5854)" class="st16 st30 st36">Customer packages their leftovers</text>
-<text transform="matrix(0 -1 1 0 2709.8154 934.5854)"><tspan x="0" y="0" class="st16 st30 st36">Gives cash or card, gives signature if using </tspan><tspan x="0" y="11.5" class="st16 st30 st36">card</tspan></text>
-<text transform="matrix(0 -1 1 0 2840.3687 934.5854)"><tspan x="0" y="0" class="st16 st30 st36">Customer remembers dining experience and </tspan><tspan x="0" y="11.5" class="st16 st30 st36">decides whether or not is coming back</tspan></text>
-<text transform="matrix(0 -1 1 0 1742.2249 934.5833)" class="st16 st30 st36">Places order</text>
-<text transform="matrix(0 -1 1 0 758.7573 934.5854)"><tspan x="0" y="0" class="st16 st30 st36">Customer researches what is popular nearby using </tspan><tspan x="0" y="11.5" class="st16 st30 st36">search applications</tspan></text>
-<text transform="matrix(0 -1 1 0 876.1449 934.5854)"><tspan x="0" y="0" class="st16 st30 st36">Uses the Internet to find out locations as well as </tspan><tspan x="0" y="11.5" class="st16 st30 st36">prices and mood</tspan></text>
-<text transform="matrix(1 0 0 1 215.3332 1026.7362)" class="st17 st30 st37">Customer actions</text>
-<text transform="matrix(1 0 0 1 215.3332 1135.2195)" class="st17 st30 st37">Line of interaction</text>
-<text transform="matrix(1 0 0 1 215.3332 1248.7957)"><tspan x="0" y="0" class="st17 st30 st37">Service Employees</tspan><tspan x="0" y="15.7" class="st17 st30 st37">Actions</tspan></text>
-<text transform="matrix(1 0 0 1 215.3332 1364.8806)" class="st17 st30 st37">Digital and Devices</text>
-<text transform="matrix(1 0 0 1 215.3332 1553.1395)"><tspan x="0" y="0" class="st17 st30 st37">Backstage Actions</tspan><tspan x="0" y="15.7" class="st17 st30 st37">and Support Processes</tspan></text>
-<text transform="matrix(1 0 0 1 215.3332 1474.8046)" class="st17 st30 st37">Line of Visibility</text>
-<line class="st18" x1="337.9" y1="1131.4" x2="3107.9" y2="1131.4"/>
-<line class="st18" x1="337.9" y1="1472.2" x2="3107.9" y2="1472.2"/>
-<text transform="matrix(1 0 0 1 617.7523 1352.2527)"><tspan x="0" y="0" class="st16 st38 st36">Computer</tspan><tspan x="-8.3" y="11.5" class="st16 st38 st36">Mobile Device</tspan><tspan x="6.4" y="23.1" class="st16 st38 st36">Tablets</tspan></text>
-<text transform="matrix(1 0 0 1 867.0287 1358.0154)"><tspan x="0" y="0" class="st16 st38 st36">Yelp</tspan><tspan x="-22.2" y="11.5" class="st16 st38 st36">Google Search</tspan></text>
-<text transform="matrix(1 0 0 1 822.6584 1567.6132)" class="st16 st38 st36">Search services processes</text>
-<text transform="matrix(1 0 0 1 1069.4056 1567.6132)" class="st16 st38 st36">Satellite processes</text>
-<text transform="matrix(1 0 0 1 1081.0033 1358.0154)"><tspan x="0" y="0" class="st16 st38 st36">Google Maps</tspan><tspan x="19.5" y="11.5" class="st16 st38 st36">GPS</tspan></text>
-<text transform="matrix(1 0 0 1 1211.8849 1358.0154)"><tspan x="0" y="0" class="st16 st38 st36">Lighting</tspan><tspan x="4.4" y="11.5" class="st16 st38 st36">Music</tspan></text>
-<text transform="matrix(1 0 0 1 1325.4095 1358.0164)"><tspan x="0" y="0" class="st16 st38 st36">Lighting</tspan><tspan x="4.4" y="11.5" class="st16 st38 st36">Music</tspan></text>
-<text transform="matrix(1 0 0 1 1721.8088 1363.7791)" class="st16 st38 st36">Register</text>
-<text transform="matrix(1 0 0 1 1863.4777 1358.0154)"><tspan x="0" y="0" class="st16 st38 st36">Television</tspan><tspan x="-9.6" y="11.5" class="st16 st38 st36">Sport Channel</tspan></text>
-<text transform="matrix(1 0 0 1 1965.5891 1352.2527)"><tspan x="0" y="0" class="st16 st38 st36">Instagram</tspan><tspan x="0.8" y="11.5" class="st16 st38 st36">SnapChat</tspan><tspan x="0.9" y="23.1" class="st16 st38 st36">Facebook</tspan></text>
-<text transform="matrix(1 0 0 1 1947.0704 1531.9255)" class="st16 st38 st36">Network services</text>
-<text transform="matrix(1 0 0 1 2317.1477 1531.9255)" class="st16 st38 st36">register prints check</text>
-<text transform="matrix(1 0 0 1 1298.3597 1258.4363)" class="st16 st38 st36">Welcomes customer</text>
-<text transform="matrix(1 0 0 1 1422.4855 1258.4363)" class="st16 st38 st36">Directs to open seating</text>
-<text transform="matrix(1 0 0 1 1558.5474 1255.8171)"><tspan x="0" y="0" class="st16 st38 st36">Provides water and</tspan><tspan x="24.8" y="11.5" class="st16 st38 st36">utensils</tspan></text>
-<text transform="matrix(1 0 0 1 1701.9808 1255.8171)" class="st16 st38 st36">Writes down order</text>
-<text transform="matrix(1 0 0 1 1957.9956 1258.4364)" class="st16 st38 st36">Delivers food</text>
-<text transform="matrix(1 0 0 1 2323.8193 1255.8171)"><tspan x="0" y="0" class="st16 st38 st36">Delivers Check</tspan><tspan x="-14.5" y="11.5" class="st16 st38 st36">recommends dessert</tspan></text>
-<text transform="matrix(1 0 0 1 2431.7615 1531.9255)"><tspan x="0" y="0" class="st16 st38 st36">Employee separates</tspan><tspan x="31.2" y="11.5" class="st16 st38 st36">check</tspan></text>
-<text transform="matrix(1 0 0 1 2680.3625 1531.9255)"><tspan x="0" y="0" class="st16 st38 st36">Credit system</tspan><tspan x="-1.8" y="11.5" class="st16 st38 st36">and processes</tspan></text>
-<text transform="matrix(1 0 0 1 1692.7942 1531.9246)"><tspan x="0" y="0" class="st16 st38 st36">Employee puts order </tspan><tspan x="21.7" y="11.5" class="st16 st38 st36">into system</tspan></text>
-<text transform="matrix(1 0 0 1 1689.8577 1590.24)"><tspan x="0" y="0" class="st16 st38 st36">Order is printed out in </tspan><tspan x="31.1" y="11.5" class="st16 st38 st36">the back</tspan></text>
-<text transform="matrix(1 0 0 1 1842.0959 1531.9246)"><tspan x="0" y="0" class="st16 st38 st36">Chef’s read order</tspan><tspan x="8.8" y="11.5" class="st16 st38 st36">and starts to </tspan><tspan x="14.4" y="23.1" class="st16 st38 st36">make food</tspan></text>
-<text transform="matrix(1 0 0 1 1832.6184 1590.2401)"><tspan x="0" y="0" class="st16 st38 st36">Rings bell when order</tspan><tspan x="25.2" y="11.5" class="st16 st38 st36">is finished</tspan></text>
-<text transform="matrix(1 0 0 1 1837.3743 1650.2059)"><tspan x="0" y="0" class="st16 st38 st36">Vendor distributors</tspan><tspan x="19.7" y="11.5" class="st16 st38 st36">Food Prep</tspan></text>
-<g>
-	<path class="st14" d="M139.6,167.9H133v-44h-0.3l-18.2,43.6h-6l-18.2-43.6H90v44h-6.6v-57.1h8.3l19.7,47.6h0.3l19.7-47.6h8.3V167.9
-		z"/>
-	<path class="st14" d="M147.7,146.6c0-13.2,7.7-21.7,19.7-21.7s19.7,8.5,19.7,21.7c0,13.2-7.7,21.7-19.7,21.7
-		S147.7,159.8,147.7,146.6z M180.1,146.6c0-9.8-4.7-15.6-12.7-15.6s-12.7,5.8-12.7,15.6s4.7,15.6,12.7,15.6
-		C175.4,162.2,180.1,156.3,180.1,146.6z"/>
-	<path class="st14" d="M194.3,125.3h6.5v6.9h0.2c2.7-4.8,7.3-7.3,13.9-7.3c9.4,0,15.2,6,15.2,15.7v27.3h-6.9v-26.1
-		c0-7-3.6-10.8-10.4-10.8c-7,0-11.6,4.8-11.6,12.1v24.8h-6.9V125.3z"/>
-	<path class="st14" d="M254.3,124.9c8.7,0,15.2,5.2,15.5,12.2h-6.6c-0.4-4-3.9-6.5-9.1-6.5c-5.3,0-8.8,2.5-8.8,6.2
-		c0,2.9,2.3,4.8,7.2,6.1l6.5,1.6c8.6,2.2,11.7,5.2,11.7,11.4c0,7.3-7,12.4-16.8,12.4c-9.2,0-15.8-5-16.5-12.4h6.9
-		c0.7,4.4,4.2,6.7,10,6.7c5.8,0,9.5-2.4,9.5-6.2c0-3-1.8-4.6-6.6-5.9l-7.5-1.9c-7.5-1.9-11.1-5.7-11.1-11.4
-		C238.5,130,245,124.9,254.3,124.9z"/>
-	<path class="st14" d="M287.2,115.6v9.6h8.3v5.7h-8.3v25.6c0,3.9,1.7,5.7,5.3,5.7c0.8,0,2.5-0.1,3-0.2v5.8c-0.8,0.2-2.8,0.4-4.4,0.4
-		c-7.7,0-10.7-3.2-10.7-11.4v-25.9h-5.9v-5.7h5.9v-9.6H287.2z"/>
-	<path class="st14" d="M337.1,155.7c-1.2,7.3-8.6,12.6-17.7,12.6c-12,0-19.5-8.3-19.5-21.6s7.6-21.9,19.2-21.9
-		c11.4,0,18.5,8,18.5,20.9v2.7H307v0.4c0,8.1,5,13.4,12.6,13.4c5.3,0,9.5-2.5,10.7-6.5H337.1z M307,143h23.5
-		c-0.2-7.2-4.7-12.1-11.5-12.1C312.3,130.9,307.5,135.8,307,143z"/>
-	<path class="st14" d="M344.9,125.3h6.5v6.9h0.2c1.3-4.5,5.3-7.3,10.3-7.3c0.8,0,2.1,0.1,2.6,0.3v6.8c-0.6-0.2-2.4-0.5-3.6-0.5
-		c-5.5,0-9.2,4-9.2,10v26.4h-6.9V125.3z"/>
-	<path class="st14" d="M412.3,110.8c10.7,0,18.3,7.5,18.3,18.3c0,10.8-7.6,18.4-18.4,18.4h-14.4v20.4h-7.1v-57.1H412.3z
-		 M397.9,141.2h12.6c8.1,0,12.8-4.5,12.8-12.1c0-7.6-4.6-12-12.8-12h-12.6V141.2z"/>
-	<path class="st14" d="M438.3,108.3h6.9v23.8h0.2c2.7-4.8,7.4-7.3,13.9-7.3c9.3,0,15.6,6.3,15.6,15.8v27.2H468v-26
-		c0-6.8-4-10.9-10.8-10.9c-7.2,0-12,4.9-12,12.4v24.5h-6.9V108.3z"/>
-	<path class="st14" d="M481.9,146.6c0-13.2,7.7-21.7,19.7-21.7s19.7,8.5,19.7,21.7c0,13.2-7.7,21.7-19.7,21.7
-		S481.9,159.8,481.9,146.6z M514.2,146.6c0-9.8-4.7-15.6-12.7-15.6s-12.7,5.8-12.7,15.6s4.7,15.6,12.7,15.6
-		C509.5,162.2,514.2,156.3,514.2,146.6z"/>
-	<path class="st14" d="M526.4,130.9l5-20.1h6.9l-5.8,20.1H526.4z"/>
-	<path class="st14" d="M555.3,124.9c8.7,0,15.2,5.2,15.5,12.2h-6.6c-0.4-4-3.9-6.5-9.1-6.5c-5.3,0-8.8,2.5-8.8,6.2
-		c0,2.9,2.3,4.8,7.2,6.1l6.5,1.6c8.6,2.2,11.7,5.2,11.7,11.4c0,7.3-7,12.4-16.8,12.4c-9.2,0-15.8-5-16.5-12.4h6.9
-		c0.7,4.4,4.2,6.7,10,6.7c5.8,0,9.5-2.4,9.5-6.2c0-3-1.8-4.6-6.6-5.9l-7.5-1.9c-7.5-1.9-11.1-5.7-11.1-11.4
-		C539.5,130,546.1,124.9,555.3,124.9z"/>
-	<path class="st14" d="M81.2,216.3c0-17.9,10.1-29.5,25.7-29.5c12.4,0,21.9,7.6,23.7,18.9h-7.2c-1.8-7.5-8.3-12.4-16.5-12.4
-		c-11.2,0-18.4,9-18.4,22.9c0,14,7.2,22.9,18.4,22.9c8.4,0,14.4-4,16.5-11h7.2c-2.6,11.3-11.1,17.6-23.7,17.6
-		C91.2,245.8,81.2,234.4,81.2,216.3z"/>
-	<path class="st14" d="M173.7,244.9h-6.5v-7H167c-2.6,4.9-7.4,7.4-14,7.4c-9.3,0-15.1-6-15.1-15.7v-27.3h6.9v26.1
-		c0,7,3.7,10.8,10.4,10.8c7,0,11.6-4.8,11.6-12.1v-24.8h6.9V244.9z"/>
-	<path class="st14" d="M198.1,201.9c8.7,0,15.2,5.2,15.5,12.2H207c-0.4-4-3.9-6.5-9.1-6.5c-5.3,0-8.8,2.5-8.8,6.2
-		c0,2.9,2.3,4.8,7.2,6.1l6.5,1.6c8.6,2.2,11.7,5.2,11.7,11.4c0,7.3-7,12.4-16.8,12.4c-9.2,0-15.8-5-16.5-12.4h6.9
-		c0.7,4.3,4.2,6.7,10,6.7c5.8,0,9.5-2.4,9.5-6.2c0-3-1.8-4.6-6.6-5.9l-7.5-1.9c-7.5-1.9-11.1-5.7-11.1-11.4
-		C182.3,207,188.8,201.9,198.1,201.9z"/>
-	<path class="st14" d="M231,192.6v9.6h8.3v5.7H231v25.6c0,3.9,1.7,5.7,5.3,5.7c0.8,0,2.5-0.1,3-0.2v5.8c-0.8,0.2-2.8,0.4-4.4,0.4
-		c-7.7,0-10.7-3.2-10.7-11.4v-25.9h-5.9v-5.7h5.9v-9.6H231z"/>
-	<path class="st14" d="M243.7,223.6c0-13.2,7.7-21.7,19.7-21.7s19.7,8.5,19.7,21.7c0,13.2-7.7,21.7-19.7,21.7
-		S243.7,236.8,243.7,223.6z M276,223.6c0-9.8-4.7-15.6-12.7-15.6s-12.7,5.8-12.7,15.6c0,9.8,4.7,15.6,12.7,15.6
-		C271.3,239.2,276,233.3,276,223.6z"/>
-	<path class="st14" d="M290.2,202.3h6.5v6.9h0.2c2-4.5,6.6-7.3,12.1-7.3c5.8,0,10.1,2.9,11.9,8.1h0.2c2.4-5.1,7.4-8.1,13.4-8.1
-		c8.4,0,13.9,5.5,13.9,13.9v29.1h-6.9v-27.5c0-5.9-3.3-9.4-9-9.4s-9.8,4.2-9.8,10.1v26.8h-6.9v-28.4c0-5.1-3.5-8.5-8.9-8.5
-		c-5.7,0-9.9,4.5-9.9,10.4v26.5h-6.9V202.3z"/>
-	<path class="st14" d="M392.6,232.7c-1.2,7.3-8.6,12.6-17.7,12.6c-12,0-19.5-8.3-19.5-21.6c0-13.2,7.6-21.9,19.2-21.9
-		c11.4,0,18.5,8,18.5,20.9v2.7h-30.6v0.4c0,8.1,5,13.4,12.6,13.4c5.3,0,9.5-2.5,10.7-6.5H392.6z M362.5,220H386
-		c-0.2-7.2-4.7-12.1-11.5-12.1C367.8,207.9,363,212.8,362.5,220z"/>
-	<path class="st14" d="M400.4,202.3h6.5v6.9h0.2c1.3-4.5,5.3-7.3,10.3-7.3c0.8,0,2.1,0.1,2.7,0.3v6.8c-0.6-0.2-2.4-0.5-3.6-0.5
-		c-5.5,0-9.2,4-9.2,10v26.4h-6.9V202.3z"/>
-	<path class="st14" d="M449.5,231.5c0.2,4.8,3.8,8.2,9,8.2c6.3,0,9.7-3.8,9.7-10.7v-41.1h7.1V229c0,10.8-6.2,17.2-16.8,17.2
-		c-9.5,0-16.1-6.1-16.1-14.8H449.5z"/>
-	<path class="st14" d="M483.5,223.6c0-13.2,7.7-21.7,19.7-21.7s19.7,8.5,19.7,21.7c0,13.2-7.7,21.7-19.7,21.7
-		S483.5,236.8,483.5,223.6z M515.8,223.6c0-9.8-4.7-15.6-12.7-15.6s-12.7,5.8-12.7,15.6c0,9.8,4.7,15.6,12.7,15.6
-		C511.1,239.2,515.8,233.3,515.8,223.6z"/>
-	<path class="st14" d="M565.6,244.9h-6.5v-7h-0.2c-2.7,4.9-7.4,7.4-14,7.4c-9.3,0-15.1-6-15.1-15.7v-27.3h6.9v26.1
-		c0,7,3.7,10.8,10.4,10.8c7,0,11.6-4.8,11.6-12.1v-24.8h6.9V244.9z"/>
-	<path class="st14" d="M574.9,202.3h6.5v6.9h0.2c1.3-4.5,5.3-7.3,10.3-7.3c0.8,0,2.1,0.1,2.7,0.3v6.8c-0.6-0.2-2.4-0.5-3.6-0.5
-		c-5.5,0-9.2,4-9.2,10v26.4h-6.9V202.3z"/>
-	<path class="st14" d="M600.6,202.3h6.5v6.9h0.2c2.7-4.8,7.3-7.3,13.9-7.3c9.4,0,15.2,6,15.2,15.7v27.3h-6.9v-26.1
-		c0-7-3.6-10.8-10.4-10.8c-7,0-11.6,4.8-11.6,12.1v24.8h-6.9V202.3z"/>
-	<path class="st14" d="M680.6,232.7c-1.2,7.3-8.6,12.6-17.7,12.6c-12,0-19.5-8.3-19.5-21.6c0-13.2,7.6-21.9,19.2-21.9
-		c11.4,0,18.5,8,18.5,20.9v2.7h-30.6v0.4c0,8.1,5,13.4,12.6,13.4c5.3,0,9.5-2.5,10.7-6.5H680.6z M650.5,220h23.5
-		c-0.2-7.2-4.7-12.1-11.5-12.1C655.8,207.9,651,212.8,650.5,220z"/>
-	<path class="st14" d="M689,260.1v-5.8c0.8,0.2,1.9,0.2,2.8,0.2c4,0,6.1-1.9,7.8-7l0.8-2.5l-15.8-42.7h7.3l11.9,35.6h0.2l11.9-35.6
-		h7.2l-16.7,45.2c-3.6,9.9-7,12.9-14.6,12.9C691.1,260.4,689.8,260.2,689,260.1z"/>
-</g>
-<rect x="77.9" y="276.4" class="st29" width="739.7" height="60"/>
-<text transform="matrix(1 0 0 1 77.8599 316.6902)" class="st17 st38 st39">Customer Dining Experience </text>
-<line class="st40" x1="77.9" y1="348.9" x2="790.6" y2="348.9"/>
-<g>
-	<line class="st21" x1="78.1" y1="514" x2="210.6" y2="514"/>
-	<line class="st11" x1="77.9" y1="641.8" x2="108.6" y2="641.8"/>
-	<circle class="st22" cx="93.2" cy="553.5" r="15.4"/>
-	<circle class="st23" cx="93.2" cy="598.1" r="15.3"/>
-	<line class="st18" x1="78.1" y1="679.7" x2="110.7" y2="679.7"/>
-	<text transform="matrix(1 0 0 1 78.1149 496.4978)" class="st16 st30 st41">Legend</text>
-	<text transform="matrix(1 0 0 1 129.6159 557.3328)" class="st16 st30 st42">Start/End point</text>
-	<text transform="matrix(1 0 0 1 129.6159 601.8728)" class="st16 st30 st42">Touchpoint</text>
-	<text transform="matrix(1 0 0 1 129.6159 645.6091)" class="st16 st30 st42">Path</text>
-	<text transform="matrix(1 0 0 1 129.6148 683.4968)" class="st16 st30 st42">Separation</text>
-</g>
-<rect x="1076.2" y="1000.3" class="st29" width="58.8" height="46.3"/>
-<text transform="matrix(1 0 0 1 1076.9583 1010.2294)"><tspan x="0" y="0" class="st15 st30 st32">Arrives at </tspan><tspan x="3.2" y="15.6" class="st15 st30 st32">Monster </tspan><tspan x="16.8" y="31.2" class="st15 st30 st32">Pho</tspan></text>
-<path class="st29" d="M791.5,1103.1H757c-2.3,0-4.3-1.7-4.3-3.7v-15.7c0-2,1.9-3.7,4.3-3.7h34.5c2.3,0,4.3,1.7,4.3,3.7v15.7
-	C795.7,1101.4,793.8,1103.1,791.5,1103.1z"/>
-<text transform="matrix(1 0 0 1 753.2394 1099.1892)" class="st10 st30 st43">1</text>
-<path class="st29" d="M1137.9,1103.1h-34.5c-2.3,0-4.3-1.7-4.3-3.7v-15.7c0-2,1.9-3.7,4.3-3.7h34.5c2.3,0,4.3,1.7,4.3,3.7v15.7
-	C1142.1,1101.4,1140.2,1103.1,1137.9,1103.1z"/>
-<text transform="matrix(1 0 0 1 1099.6339 1099.1892)" class="st10 st35 st43">2</text>
-<path class="st29" d="M1502.3,1103.1h-34.5c-2.3,0-4.3-1.7-4.3-3.7v-15.7c0-2,1.9-3.7,4.3-3.7h34.5c2.3,0,4.3,1.7,4.3,3.7v15.7
-	C1506.6,1101.4,1504.7,1103.1,1502.3,1103.1z"/>
-<text transform="matrix(1 0 0 1 1464.0774 1099.1892)" class="st10 st35 st43">3</text>
-<path class="st29" d="M1781,1103.1h-34.5c-2.3,0-4.3-1.7-4.3-3.7v-15.7c0-2,1.9-3.7,4.3-3.7h34.5c2.3,0,4.3,1.7,4.3,3.7v15.7
-	C1785.2,1101.4,1783.3,1103.1,1781,1103.1z"/>
-<text transform="matrix(1 0 0 1 1742.7513 1099.1892)" class="st10 st35 st43">4</text>
-<path class="st29" d="M2232.9,1103.1h-15.6c-1.1,0-1.9-1.7-1.9-3.7v-15.7c0-2,0.9-3.7,1.9-3.7h15.6c1.1,0,1.9,1.7,1.9,3.7v15.7
-	C2234.8,1101.4,2234,1103.1,2232.9,1103.1z"/>
-<text transform="matrix(1 0 0 1 2215.6758 1099.1892)" class="st10 st35 st43">5</text>
-<path class="st29" d="M2874.2,1103.1h-34.5c-2.3,0-4.3-1.7-4.3-3.7v-15.7c0-2,1.9-3.7,4.3-3.7h34.5c2.3,0,4.3,1.7,4.3,3.7v15.7
-	C2878.5,1101.4,2876.6,1103.1,2874.2,1103.1z"/>
-<text transform="matrix(1 0 0 1 2835.9839 1099.1892)" class="st10 st35 st43">6</text>
-<rect x="-1.2" y="1746.4" class="st19" width="3457.2" height="410.8"/>
-<text transform="matrix(0 -1 1 0 107.8625 2113.3687)" class="st44 st35 st45">Customer Thoughts</text>
-<g>
-	<g>
-		<path class="st29" d="M2352,1834.9h-37c-2.5,0-4.6-2.5-4.6-5.7v-24c0-3.1,2-5.7,4.6-5.7h37c2.5,0,4.6,2.5,4.6,5.7v24
-			C2356.6,1832.3,2354.5,1834.9,2352,1834.9z"/>
-		<text transform="matrix(1 0 0 1 2311.0159 1832.0408)" class="st10 st35 st46">5</text>
-		<text transform="matrix(1 0 0 1 2341.6768 1828.7124)" class="st10 st35 st47">Eating</text>
-	</g>
-	<rect x="2310.4" y="1851.8" class="st29" width="219.3" height="272.5"/>
-	<text transform="matrix(1 0 0 1 2310.4087 1860.947)"><tspan x="0" y="0" class="st16 st30 st48">/ how do I eat pho</tspan><tspan x="0" y="16.6" class="st16 st30 st48">/ are these sauces for the pho or </tspan><tspan x="0" y="33.2" class="st16 st30 st48">something else</tspan><tspan x="0" y="49.8" class="st16 st30 st48">/ am I suppose to mix leaves in the </tspan><tspan x="0" y="66.4" class="st16 st30 st48">soup</tspan><tspan x="0" y="83" class="st16 st30 st48">/ what are the bean sprouts for</tspan><tspan x="0" y="99.6" class="st16 st30 st48">/ is pho suppose to be spicy</tspan><tspan x="0" y="116.1" class="st16 st30 st48">/ is it just a beef broth</tspan><tspan x="0" y="132.7" class="st16 st30 st48">/ do they have forks</tspan><tspan x="0" y="149.3" class="st16 st30 st48">/ is my server going to come back</tspan></text>
-</g>
-<g>
-	<g>
-		<path class="st29" d="M2766.9,1834.9h-37c-2.5,0-4.6-2.5-4.6-5.7v-24c0-3.1,2-5.7,4.6-5.7h37c2.5,0,4.6,2.5,4.6,5.7v24
-			C2771.5,1832.3,2769.4,1834.9,2766.9,1834.9z"/>
-		<text transform="matrix(1 0 0 1 2725.9102 1832.0408)" class="st10 st35 st46">6</text>
-		<text transform="matrix(1 0 0 1 2756.571 1828.7123)" class="st10 st35 st47">Leaving</text>
-	</g>
-	<rect x="2725.3" y="1851.8" class="st29" width="218.6" height="272.5"/>
-	<text transform="matrix(1 0 0 1 2725.3035 1861.7826)"><tspan x="0" y="0" class="st16 st30 st37">/ did that satisfy my hunger</tspan><tspan x="0" y="16.6" class="st16 st30 st37">/ should I leave a review</tspan><tspan x="0" y="33.2" class="st16 st30 st37">/ were they what I expected</tspan><tspan x="0" y="49.8" class="st16 st30 st37">/ will I come back</tspan><tspan x="0" y="66.4" class="st16 st30 st37">/ should I bring my friends next </tspan><tspan x="0" y="83" class="st16 st30 st37">time</tspan><tspan x="0" y="99.6" class="st16 st30 st37">/ was the service good</tspan><tspan x="0" y="116.1" class="st16 st30 st37">/ was the food good</tspan><tspan x="0" y="132.7" class="st16 st30 st37">/ was my trip worth it</tspan><tspan x="0" y="149.3" class="st16 st30 st37">/ was the price worht it</tspan><tspan x="0" y="165.9" class="st16 st30 st37">/ I should expect the same food </tspan><tspan x="0" y="182.5" class="st16 st30 st37">and service next time</tspan></text>
-</g>
-<g>
-	<g>
-		<path class="st29" d="M1935.8,1834.9h-37c-2.5,0-4.6-2.5-4.6-5.7v-24c0-3.1,2-5.7,4.6-5.7h37c2.5,0,4.6,2.5,4.6,5.7v24
-			C1940.4,1832.3,1938.3,1834.9,1935.8,1834.9z"/>
-		<text transform="matrix(1 0 0 1 1894.8394 1832.0408)" class="st10 st35 st46">4</text>
-		<text transform="matrix(1 0 0 1 1925.5002 1828.7123)" class="st10 st35 st47">Places Order</text>
-	</g>
-	<rect x="1894.2" y="1851.8" class="st29" width="222.6" height="272.5"/>
-	<text transform="matrix(1 0 0 1 1894.2327 1860.9476)"><tspan x="0" y="0" class="st16 st30 st48">/ I wonder how long it will take for my </tspan><tspan x="0" y="16.6" class="st16 st30 st48">food to arrive</tspan><tspan x="0" y="33.2" class="st16 st30 st48">/ what are these sauces</tspan><tspan x="0" y="49.8" class="st16 st30 st48">/ how are they making my food</tspan><tspan x="0" y="66.4" class="st16 st30 st48">/ I don’t know what kind of meat I </tspan><tspan x="0" y="83" class="st16 st30 st48">ordered in my pho</tspan><tspan x="0" y="99.6" class="st16 st30 st48">/ I don’t want to look like I don’t know </tspan><tspan x="0" y="116.1" class="st16 st30 st48">what i want</tspan><tspan x="0" y="132.7" class="st16 st30 st48">/ I want to look experienced</tspan><tspan x="0" y="149.3" class="st16 st30 st48">/ I wonder if they play any other </tspan><tspan x="0" y="165.9" class="st16 st30 st48">channels on the tv</tspan></text>
-</g>
-<g>
-	<g>
-		<path class="st29" d="M1517.7,1834.9h-37c-2.5,0-4.6-2.5-4.6-5.7v-24c0-3.1,2-5.7,4.6-5.7h37c2.5,0,4.6,2.5,4.6,5.7v24
-			C1522.3,1832.3,1520.2,1834.9,1517.7,1834.9z"/>
-		<text transform="matrix(1 0 0 1 1476.709 1832.0406)" class="st10 st35 st46">3</text>
-		<text transform="matrix(1 0 0 1 1507.3698 1828.7123)" class="st10 st35 st47">Seating and Menu</text>
-	</g>
-	<rect x="1476.1" y="1851.8" class="st29" width="229.9" height="272.5"/>
-	<text transform="matrix(1 0 0 1 1476.1022 1860.9471)"><tspan x="0" y="0" class="st16 st30 st48">/ do I wait to be seated </tspan><tspan x="0" y="16.6" class="st16 st30 st48">/ do I get to choose where i want to sit</tspan><tspan x="0" y="33.2" class="st16 st30 st48">/ what is Pho</tspan><tspan x="0" y="49.8" class="st16 st30 st48">/ what is Vermicelli</tspan><tspan x="0" y="66.4" class="st16 st30 st48">/ how big are the portions</tspan><tspan x="0" y="83" class="st16 st30 st48">/ what is considered monster sized</tspan><tspan x="0" y="99.6" class="st16 st30 st48">/ how do they prepare my food</tspan><tspan x="0" y="116.1" class="st16 st30 st48">/ what can I get off the menu</tspan><tspan x="0" y="132.7" class="st16 st30 st48">/ what makes this pho different</tspan><tspan x="0" y="149.3" class="st16 st30 st48">/ what makes this experience different</tspan><tspan x="0" y="165.9" class="st16 st30 st48">/ can i sample anything</tspan></text>
-</g>
-<g>
-	<g>
-		<path class="st29" d="M1104.5,1834.9h-37c-2.5,0-4.6-2.5-4.6-5.7v-24c0-3.1,2-5.7,4.6-5.7h37c2.5,0,4.6,2.5,4.6,5.7v24
-			C1109.1,1832.3,1107.1,1834.9,1104.5,1834.9z"/>
-		<text transform="matrix(1 0 0 1 1063.557 1832.0408)" class="st10 st35 st46">2</text>
-		<text transform="matrix(1 0 0 1 1094.2178 1828.7124)" class="st10 st35 st47">Arrives</text>
-	</g>
-	<rect x="1063" y="1851.8" class="st29" width="227.1" height="272.5"/>
-	<text transform="matrix(1 0 0 1 1062.9506 1860.9475)"><tspan x="0" y="0" class="st16 st30 st48">/I need to know where are people </tspan><tspan x="0" y="16.6" class="st16 st30 st48">talking about</tspan><tspan x="0" y="33.2" class="st16 st30 st48">/where’s a place with credibility</tspan><tspan x="0" y="49.8" class="st16 st30 st48">/I need insurance that I will get what i </tspan><tspan x="0" y="66.4" class="st16 st30 st48">pay for</tspan><tspan x="0" y="83" class="st16 st30 st48">/I need to go somewhere that is filling</tspan><tspan x="0" y="99.6" class="st16 st30 st48">/I need to be somewhere that is </tspan><tspan x="0" y="116.1" class="st16 st30 st48">convenient for me</tspan><tspan x="0" y="132.7" class="st16 st30 st48">/I need to be in a place where I’m </tspan><tspan x="0" y="149.3" class="st16 st30 st48">welcomed</tspan><tspan x="0" y="165.9" class="st16 st30 st48">/I need to be in a place where I’m valued</tspan><tspan x="0" y="182.5" class="st16 st30 st48">/I need to make the right decision</tspan><tspan x="0" y="199.1" class="st16 st30 st48">/I need to be able to find accessible </tspan><tspan x="0" y="215.7" class="st16 st30 st48">parking</tspan></text>
-</g>
-<g>
-	<g>
-		<path class="st29" d="M684.2,1834.9h-37c-2.5,0-4.6-2.5-4.6-5.7v-24c0-3.1,2-5.7,4.6-5.7h37c2.5,0,4.6,2.5,4.6,5.7v24
-			C688.7,1832.3,686.7,1834.9,684.2,1834.9z"/>
-		<text transform="matrix(1 0 0 1 643.1791 1832.0405)" class="st10 st35 st46">1</text>
-		<text transform="matrix(1 0 0 1 673.8398 1828.7122)" class="st10 st35 st47">Explore</text>
-	</g>
-	<rect x="642.6" y="1851.8" class="st29" width="238.8" height="272.5"/>
-	<text transform="matrix(1 0 0 1 642.5724 1860.9471)"><tspan x="0" y="0" class="st17 st30 st48">/I need to know where are people talking </tspan><tspan x="0" y="16.6" class="st17 st30 st48">about</tspan><tspan x="0" y="33.2" class="st17 st30 st48">/where’s a place with credibility</tspan><tspan x="0" y="49.8" class="st17 st30 st48">/I need insurance that I will get what i pay </tspan><tspan x="0" y="66.4" class="st17 st30 st48">for</tspan><tspan x="0" y="83" class="st17 st30 st48">/I need to go somewhere that is filling</tspan><tspan x="0" y="99.6" class="st17 st30 st48">/I need to be somewhere that is </tspan><tspan x="0" y="116.1" class="st17 st30 st48">convenient for me</tspan><tspan x="0" y="132.7" class="st17 st30 st48">/I need to be in a place where I’m </tspan><tspan x="0" y="149.3" class="st17 st30 st48">welcomed</tspan><tspan x="0" y="165.9" class="st17 st30 st48">/I need to be in a place where I’m valued</tspan><tspan x="0" y="182.5" class="st17 st30 st48">/I need to make the right decision</tspan><tspan x="0" y="199.1" class="st17 st30 st48">/I need to be able to find accessible </tspan><tspan x="0" y="215.7" class="st17 st30 st48">parking</tspan></text>
-</g>
+<line class="st0" x1="828.3" y1="320.5" x2="881.2" y2="320.5"/>
+<line class="st0" x1="239" y1="320.5" x2="296.8" y2="320.5"/>
+<line class="st0" x1="125.1" y1="320.5" x2="191.5" y2="320.5"/>
+<line class="st0" x1="478.4" y1="320.5" x2="526.6" y2="320.5"/>
+<line class="st0" x1="377" y1="320.5" x2="417.1" y2="320.5"/>
+<circle class="st1" cx="63.6" cy="320.5" r="61.6"/>
+<line class="st0" x1="585.5" y1="320.5" x2="630.2" y2="320.5"/>
+<line class="st0" x1="721.6" y1="320.5" x2="779.3" y2="320.5"/>
+<circle class="st2" cx="208.4" cy="320.5" r="30.6"/>
+<circle class="st2" cx="447.7" cy="320.5" r="30.6"/>
+<circle class="st2" cx="554.9" cy="320.5" r="30.6"/>
+<line class="st0" x1="941.8" y1="320.5" x2="1005.4" y2="320.5"/>
+<rect x="16.5" y="297.6" class="st3" width="94.1" height="50.5"/>
+<text transform="matrix(1 0 0 1 31.5854 308.2209)"><tspan x="0" y="0" class="st4 st5 st6">Customer </tspan><tspan x="-13.1" y="16.8" class="st4 st5 st6">Journey starts </tspan><tspan x="17" y="33.5" class="st4 st5 st6">here</tspan></text>
+<line class="st0" x1="1199.4" y1="320.5" x2="1270.3" y2="320.5"/>
+<circle class="st1" cx="2583.1" cy="320.2" r="61.6"/>
+<rect x="2536.1" y="296.8" class="st3" width="94.1" height="52.1"/>
+<text transform="matrix(1 0 0 1 2553.3721 306.6877)"><tspan x="0" y="0" class="st4 st5 st7">Customer </tspan><tspan x="-9.9" y="15.6" class="st4 st5 st7">Journey ends </tspan><tspan x="15.8" y="31.2" class="st4 st5 st7">here</tspan></text>
+<rect x="184.6" y="309" class="st3" width="47.6" height="28.1"/>
+<text transform="matrix(1 0 0 1 191.4984 315.1292)"><tspan x="0" y="0" class="st8 st5 st9">Finding a </tspan><tspan x="-4.7" y="9.6" class="st8 st5 st9">place to eat</tspan></text>
+<rect x="423.9" y="315.6" class="st3" width="47.6" height="9.9"/>
+<text transform="matrix(1 0 0 1 429.0248 323.1536)" class="st8 st5 st10">Internet </text>
+<rect x="531.1" y="306.4" class="st3" width="47.6" height="43.7"/>
+<text transform="matrix(1 0 0 1 542.6161 314.0121)"><tspan x="0" y="0" class="st8 st5 st10">What </tspan><tspan x="-3.7" y="12" class="st8 st5 st10">People </tspan><tspan x="4.6" y="24" class="st8 st5 st10">say</tspan></text>
+<line class="st0" x1="1686.4" y1="320.5" x2="1750.1" y2="320.5"/>
+<circle class="st2" cx="797.6" cy="320.5" r="30.6"/>
+<line class="st0" x1="1086.5" y1="320.5" x2="1150.2" y2="320.5"/>
+<rect x="773.8" y="315.9" class="st3" width="47.6" height="14.5"/>
+<text transform="matrix(1 0 0 1 782.7802 323.4651)" class="st8 st5 st10">Enters</text>
+<circle class="st2" cx="911.2" cy="320.5" r="30.6"/>
+<line class="st0" x1="1829" y1="320.5" x2="1892.7" y2="320.5"/>
+<rect x="887.4" y="309.9" class="st3" width="47.6" height="33.5"/>
+<text transform="matrix(1 0 0 1 892.2264 317.4622)"><tspan x="0" y="0" class="st8 st5 st10">Greeted </tspan><tspan x="-2.5" y="12" class="st8 st5 st10">by server</tspan></text>
+<circle class="st2" cx="1168.7" cy="320.5" r="30.6"/>
+<line class="st0" x1="1356" y1="320.5" x2="1419.7" y2="320.5"/>
+<line class="st0" x1="1464.3" y1="320.5" x2="1528" y2="320.5"/>
+<line class="st0" x1="1949.3" y1="320.5" x2="2012.9" y2="320.5"/>
+<line class="st0" x1="1580.5" y1="320.5" x2="1644.2" y2="320.5"/>
+<rect x="1144.9" y="309.8" class="st3" width="47.6" height="31.3"/>
+<text transform="matrix(1 0 0 1 1151.3544 317.428)"><tspan x="0" y="0" class="st8 st5 st10">Browse </tspan><tspan x="3.9" y="12" class="st8 st5 st10">Menu</tspan></text>
+<circle class="st2" cx="1448.2" cy="320.5" r="30.6"/>
+<rect x="1424.4" y="308.9" class="st3" width="47.6" height="26.1"/>
+<text transform="matrix(1 0 0 1 1430.6688 316.4915)"><tspan x="0" y="0" class="st8 st5 st10">Waiting </tspan><tspan x="-1.3" y="12" class="st8 st5 st10">for food</tspan></text>
+<circle class="st2" cx="1551.6" cy="320.5" r="30.6"/>
+<rect x="1527.8" y="306.1" class="st3" width="47.6" height="31.6"/>
+<text transform="matrix(1 0 0 1 1539.9457 313.7357)"><tspan x="0" y="0" class="st8 st5 st10">Food </tspan><tspan x="-4.1" y="12" class="st8 st5 st10">arrives </tspan></text>
+<line class="st0" x1="2069.5" y1="319.6" x2="2133.2" y2="319.6"/>
+<circle class="st2" cx="1655.8" cy="320.5" r="30.6"/>
+<line class="st0" x1="2183" y1="319.6" x2="2246.6" y2="319.6"/>
+<rect x="1632" y="307" class="st3" width="47.6" height="29.9"/>
+<text transform="matrix(1 0 0 1 1641.0707 314.6088)"><tspan x="0" y="0" class="st8 st5 st10">Adjust </tspan><tspan x="3.2" y="12" class="st8 st5 st10">taste</tspan></text>
+<line class="st0" x1="2305.1" y1="319.8" x2="2368.7" y2="319.8"/>
+<circle class="st2" cx="1918.6" cy="320.5" r="30.6"/>
+<rect x="1894.8" y="311.3" class="st3" width="47.6" height="34.9"/>
+<text transform="matrix(1 0 0 1 1898.5946 318.8705)"><tspan x="0" y="0" class="st8 st5 st10">Receives </tspan><tspan x="13.2" y="12" class="st8 st5 st10">bill</tspan></text>
+<circle class="st2" cx="2039.3" cy="320.5" r="30.6"/>
+<rect x="2016.6" y="304.2" class="st3" width="47.6" height="41.3"/>
+<text transform="matrix(1 0 0 1 2019.5463 311.7503)"><tspan x="0" y="0" class="st8 st5 st10">Seperate </tspan><tspan x="15.7" y="12" class="st8 st5 st10">or </tspan><tspan x="0.8" y="24" class="st8 st5 st10">together</tspan></text>
+<circle class="st2" cx="2159.2" cy="319.6" r="30.6"/>
+<circle class="st2" cx="328.6" cy="320.1" r="48"/>
+<rect x="2135.4" y="300.3" class="st3" width="47.6" height="39.9"/>
+<text transform="matrix(1 0 0 1 2143.9106 307.8694)"><tspan x="0" y="0" class="st8 st5 st10">Taking </tspan><tspan x="4.4" y="12" class="st8 st5 st10">food </tspan><tspan x="1.7" y="24" class="st8 st5 st10">home</tspan></text>
+<circle class="st2" cx="2274.4" cy="319.3" r="30.6"/>
+<rect x="2250.6" y="314.7" class="st3" width="47.6" height="18.5"/>
+<text transform="matrix(1 0 0 1 2253.8262 322.3351)" class="st8 st5 st10">Payment</text>
+<line class="st0" x1="2457.1" y1="319.8" x2="2520.8" y2="319.8"/>
+<rect x="298.2" y="314.1" class="st3" width="58.8" height="12.8"/>
+<text transform="matrix(1 0 0 1 304.6913 324.0139)" class="st8 st5 st7">Explore</text>
+<circle class="st2" cx="1318.2" cy="322.3" r="48"/>
+<rect x="1288.8" y="305.9" class="st3" width="58.8" height="32.9"/>
+<text transform="matrix(1 0 0 1 1299.2006 315.7516)"><tspan x="0" y="0" class="st8 st5 st7">Places </tspan><tspan x="2.2" y="15.6" class="st8 st5 st7">order</tspan></text>
+<circle class="st2" cx="1789.3" cy="320.5" r="48"/>
+<rect x="1759.9" y="314.2" class="st3" width="58.8" height="15.5"/>
+<text transform="matrix(1 0 0 1 1770.5883 324.0999)" class="st8 st5 st7">Eating</text>
+<circle class="st2" cx="2409.2" cy="319.3" r="48"/>
+<rect x="2379.8" y="312.7" class="st3" width="58.8" height="15.5"/>
+<text transform="matrix(1 0 0 1 2386.0908 322.6263)" class="st8 st5 st7">Leaving</text>
+<circle class="st2" cx="1038.5" cy="320.5" r="48"/>
+<circle class="st2" cx="674.6" cy="319.9" r="48"/>
+<rect x="1009" y="300.2" class="st3" width="58.8" height="60.8"/>
+<text transform="matrix(1 0 0 1 1015.2245 310.1293)"><tspan x="0" y="0" class="st8 st11 st7">Seating </tspan><tspan x="11.3" y="15.6" class="st8 st11 st7">and </tspan><tspan x="5.2" y="31.2" class="st8 st11 st7">Menu</tspan></text>
+<text transform="matrix(0 -1 1 0 211.3808 240.0831)" class="st12 st5 st13">what is new and what people are talking about</text>
+<text transform="matrix(0 -1 1 0 554.8583 233.3369)"><tspan x="0" y="0" class="st12 st5 st13">What are friends and family saying is a good place</tspan><tspan x="0" y="11.5" class="st12 st5 st13">to eat</tspan></text>
+<text transform="matrix(0 -1 1 0 675.3934 233.3369)"><tspan x="0" y="0" class="st12 st5 st13">After parking, makes pre-assumptions of </tspan><tspan x="0" y="11.5" class="st12 st5 st13">what kind of setting is inside</tspan></text>
+<text transform="matrix(0 -1 1 0 800.6049 233.3369)" class="st12 st5 st13">Waits to be seated</text>
+<text transform="matrix(0 -1 1 0 914.1298 233.3369)" class="st12 st5 st13">Asked how many guests there are </text>
+<text transform="matrix(0 -1 1 0 1043.2728 233.3369)" class="st12 st5 st13">Seated and is given a menu</text>
+<text transform="matrix(0 -1 1 0 1171.7118 233.3369)" class="st12 st5 st13">Asks questions regarding the food</text>
+<text transform="matrix(0 -1 1 0 1445.3954 233.3369)"><tspan x="0" y="0" class="st12 st5 st13">Sports Entertainment is provided, unsure</tspan><tspan x="0" y="11.5" class="st12 st5 st13">how long it will take</tspan></text>
+<text transform="matrix(0 -1 1 0 1555.4144 233.3369)" class="st12 st5 st13">Looks for visual appeal as well as freshness</text>
+<text transform="matrix(0 -1 1 0 1659.6234 233.3369)"><tspan x="0" y="0" class="st12 st5 st13">Customizes taste to their liking with the sauces</tspan><tspan x="0" y="11.5" class="st12 st5 st13">already on the table.</tspan></text>
+<text transform="matrix(0 -1 1 0 1792.2836 233.3369)" class="st12 st5 st13">Customer goes through dining experience</text>
+<text transform="matrix(0 -1 1 0 1924.079 233.3369)" class="st12 st5 st13">Determines whether the meal was worth the money</text>
+<text transform="matrix(0 -1 1 0 2042.2299 233.3369)" class="st12 st5 st13">Pays individually or as a whole</text>
+<text transform="matrix(0 -1 1 0 2162.4795 233.3369)" class="st12 st5 st13">Customer packages their leftovers</text>
+<text transform="matrix(0 -1 1 0 2278.6235 233.3369)"><tspan x="0" y="0" class="st12 st5 st13">Gives cash or card, gives signature if using </tspan><tspan x="0" y="11.5" class="st12 st5 st13">card</tspan></text>
+<text transform="matrix(0 -1 1 0 2409.1768 233.3369)"><tspan x="0" y="0" class="st12 st5 st13">Customer remembers dining experience and </tspan><tspan x="0" y="11.5" class="st12 st5 st13">decides whether or not is coming back</tspan></text>
+<text transform="matrix(0 -1 1 0 1311.0331 233.3347)" class="st12 st5 st13">Places order</text>
+<text transform="matrix(0 -1 1 0 327.5653 233.3369)"><tspan x="0" y="0" class="st12 st5 st13">Customer researches what is popular nearby using </tspan><tspan x="0" y="11.5" class="st12 st5 st13">search applications</tspan></text>
+<text transform="matrix(0 -1 1 0 444.953 233.3369)"><tspan x="0" y="0" class="st12 st5 st13">Uses the Internet to find out locations as well as </tspan><tspan x="0" y="11.5" class="st12 st5 st13">prices and mood</tspan></text>
+<rect x="645" y="299.1" class="st3" width="58.8" height="46.3"/>
+<text transform="matrix(1 0 0 1 645.766 308.9808)"><tspan x="0" y="0" class="st8 st5 st7">Arrives at </tspan><tspan x="3.2" y="15.6" class="st8 st5 st7">Monster </tspan><tspan x="16.8" y="31.2" class="st8 st5 st7">Pho</tspan></text>
+<path class="st3" d="M360.3,401.8h-34.5c-2.3,0-4.3-1.7-4.3-3.7v-15.7c0-2,1.9-3.7,4.3-3.7h34.5c2.3,0,4.3,1.7,4.3,3.7v15.7
+	C364.5,400.2,362.6,401.8,360.3,401.8z"/>
+<text transform="matrix(1 0 0 1 322.0473 397.9407)" class="st2 st5 st14">1</text>
+<path class="st3" d="M706.7,401.8h-34.5c-2.3,0-4.3-1.7-4.3-3.7v-15.7c0-2,1.9-3.7,4.3-3.7h34.5c2.3,0,4.3,1.7,4.3,3.7v15.7
+	C710.9,400.2,709,401.8,706.7,401.8z"/>
+<text transform="matrix(1 0 0 1 668.4418 397.9407)" class="st2 st11 st14">2</text>
+<path class="st3" d="M1071.1,401.8h-34.5c-2.3,0-4.3-1.7-4.3-3.7v-15.7c0-2,1.9-3.7,4.3-3.7h34.5c2.3,0,4.3,1.7,4.3,3.7v15.7
+	C1075.4,400.2,1073.5,401.8,1071.1,401.8z"/>
+<text transform="matrix(1 0 0 1 1032.8851 397.9407)" class="st2 st11 st14">3</text>
+<path class="st3" d="M1349.8,401.8h-34.5c-2.3,0-4.3-1.7-4.3-3.7v-15.7c0-2,1.9-3.7,4.3-3.7h34.5c2.3,0,4.3,1.7,4.3,3.7v15.7
+	C1354,400.2,1352.1,401.8,1349.8,401.8z"/>
+<text transform="matrix(1 0 0 1 1311.5594 397.9407)" class="st2 st11 st14">4</text>
+<path class="st3" d="M1801.7,401.8h-15.6c-1.1,0-1.9-1.7-1.9-3.7v-15.7c0-2,0.9-3.7,1.9-3.7h15.6c1.1,0,1.9,1.7,1.9,3.7v15.7
+	C1803.6,400.2,1802.8,401.8,1801.7,401.8z"/>
+<text transform="matrix(1 0 0 1 1784.4838 397.9407)" class="st2 st11 st14">5</text>
+<path class="st3" d="M2443,401.8h-34.5c-2.3,0-4.3-1.7-4.3-3.7v-15.7c0-2,1.9-3.7,4.3-3.7h34.5c2.3,0,4.3,1.7,4.3,3.7v15.7
+	C2447.3,400.2,2445.4,401.8,2443,401.8z"/>
+<text transform="matrix(1 0 0 1 2404.792 397.9407)" class="st2 st11 st14">6</text>
 </svg>

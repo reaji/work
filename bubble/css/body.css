@@ -1,0 +1,239 @@
+html, body{
+	width: 100%;
+	overflow-x:hidden;
+	margin: 0; 
+/*	background: #fff; 
+    background: -webkit-linear-gradient(#fff, #FAFAFA); 
+    background: -o-linear-gradient(#fff, #FAFAFA); 
+    background: -moz-linear-gradient(#fff, #FAFAFA); 
+    background: linear-gradient(#fff, #FAFAFA); */
+}
+
+*::-webkit-scrollbar { 
+  display: none;
+}
+
+/** Thin */
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 200;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-thin-webfont.woff");
+}
+
+/** Thin */
+@font-face {
+  font-family: "SFCD";
+  font-weight: 200;
+  src: url("../../assets/font/sf-compact-display-thin-webfont.woff");
+}
+
+/** Regular */
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 400;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff");
+}
+
+/** Regular */
+@font-face {
+  font-family: "SFCD";
+  font-weight: 400;
+  src: url("../../assets/font/sf-compact-display-regular-webfont.woff");
+}
+
+/** Medium */
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 500;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-medium-webfont.woff");
+}
+
+/** Medium */
+@font-face {
+  font-family: "SFCD";
+  font-weight: 500;
+  src: url("../../assets/font/sf-compact-display-medium-webfont.woff");
+}
+
+/** Semi Bold */
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 600;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-semibold-webfont.woff");
+}
+
+/** Semi Bold */
+@font-face {
+  font-family: "SFCD";
+  font-weight: 600;
+  src: url("../../assets/font/sf-compact-display-semibold-webfont.woff");
+}
+
+/** Bold */ 
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 700;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-bold-webfont.woff");
+}
+
+/** Bold */ 
+@font-face {
+  font-family: "SFCD";
+  font-weight: 700;
+  src: url("../../assets/font/sf-compact-display-bold-webfont.woff");
+}
+
+
+
+/** SF Regular*/ 
+@font-face {
+    font-family: "SFNS";
+    font-weight: 100;
+    src: url("../../assets/font/sf-ui-display-ultralight-webfont.woff");
+}
+
+/** SF Think*/ 
+@font-face {
+    font-family: "SFNS";
+    font-weight: 200;
+    src: url("../../assets/font/sf-ui-display-thin-webfont.woff");
+}
+
+/** SF light*/ 
+@font-face {
+    font-family: "SFNS";
+    font-weight: 300;
+    src: url("../../assets/font/sf-ui-display-light-webfont.woff");
+}
+
+/** SF Regular*/ 
+@font-face {
+    font-family: "SFNS";
+    font-weight: 400;
+    src: url("../../assets/font/sf-ui-display-regular-webfont.woff");
+}
+
+* {
+   font-family: 'SFNS', helvetica;  
+}
+
+.headpic{
+	width: 100%;
+}
+
+.protitle{
+	margin: 45px auto 0;
+	text-align: center;
+	font-size: 60px;
+/*	letter-spacing: -3px;*/
+	color: #1980FC;
+}
+
+#personas{
+	margin: 100px auto;
+}
+
+#ecosystem{
+	margin: 50px auto;
+}
+
+#journeymap{
+	margin: 120px auto;
+}
+
+.note1{
+	text-align: center;
+	margin: 0 auto;
+	color: grey;
+	font-size: 24px;
+	font-weight: 400;
+}
+
+.note1 span{
+	color: #1980FC;
+	font-weight: 500;
+}
+
+.tagline{
+	text-align: center;
+	margin: 0 auto;
+	font-size: 32px;
+	font-weight: 400;
+	color: #424242;
+}
+
+.logoimg{
+	height: 100px;
+}
+
+.personas{
+	display: block;
+	margin: 40px auto 0;
+	width: 750px;
+	max-width: 90%;
+}
+
+.ecosystem{
+	display: block;
+	margin: 40px auto 0;
+	width: 750px;
+	max-width: 90%;
+}
+
+.journeymap{
+	display: block;
+	margin: 40px auto 0;
+	width: 850px;
+	max-width: 90%;
+}
+
+.description{
+	max-width: 750px;
+	padding: 0 25px;
+	font-size: 18px;
+	margin: 50px auto 50px;
+	color: #424242;
+	font-weight: 300;
+}
+
+.description .hilight{
+	font-weight: 600;
+}
+
+.description.mapdescription{
+	max-width: 600px;
+}
+
+.description a{
+	color: #1980FC;
+	cursor: pointer;
+	text-decoration: none;
+	font-weight: 400;
+}
+
+.description a:hover{
+	text-decoration: underline;
+}
+
+.parttitle{
+	color: #1980FC;
+	text-align: center;
+	margin: 0 auto;
+	font-size: 32px;
+	font-weight: 600;
+}
+
+
+@media screen and (max-width: 500px) {
+
+.description{
+	font-size: 10px;
+}
+
+}
+
+
+
+
+
+
