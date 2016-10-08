@@ -62,7 +62,7 @@ position: fixed;
 	text-align: center;
 	letter-spacing: 6px;
 	margin: 0 auto;
-	max-width: 230px;
+	max-width: 240px;
 	cursor: pointer;
    text-indent: 10px;
 }
@@ -186,7 +186,7 @@ height: 2px;
 
 .title{
   position: absolute;
-  top: 13px;
+  top: 11px;
   left: 0;
   right: 0;
 
@@ -215,14 +215,14 @@ height: 2px;
 
 .menu.about{
   position: absolute;
-  top:25px;
+  top:23px;
   left: 0;
 
 }
 
 .menu.work{
   position: absolute;
-  top:25px;
+  top:23px;
   right: 0;
 
 }
