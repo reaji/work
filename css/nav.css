@@ -11,8 +11,20 @@
   background: white;
   -webkit-transition: all .5s cubic-bezier(.25,.46,.45,.94);
     transition: all .5s cubic-bezier(.25,.46,.45,.94);
+
   
 }
+
+#navbackground2{  
+  display: none;
+position: fixed;
+  z-index: +1;
+  width: 100%;
+  height: 62px;
+  background: white;
+  -webkit-transition: all .5s cubic-bezier(.25,.46,.45,.94);
+    transition: all .5s cubic-bezier(.25,.46,.45,.94);}
+
 
 #nav{
 	position: fixed;
@@ -52,8 +64,7 @@
 	margin: 0 auto;
 	max-width: 230px;
 	cursor: pointer;
-	text-indent: 6px;
-
+   text-indent: 10px;
 }
 
 a{
@@ -85,16 +96,13 @@ height: 2px;
     transition: all .35s cubic-bezier(.25,.46,.45,.94);
 }
 
-.menu.work .underline{
-  background: #666666;
-}
 
 .menu.about{
   position: absolute;
   top:11px;
   left: 10px;
   height: 21px;
-  /*animation: accessin2 2s;*/
+ /* animation: accessin2 2s;*/
   cursor: pointer;
   text-align: right;
   color: #999999;
@@ -107,6 +115,7 @@ height: 2px;
 .menu.about:hover .underline{
   background: #999999;
   width: 100%;
+  
 }
 
 .menu.about:hover{
@@ -121,6 +130,10 @@ height: 2px;
 .menu.work:hover .underline{
   background: #999999;
   width: 100%;
+}
+
+.menu.work .underline{
+  background: #666666;
 }
 
 .menu.work:hover{
@@ -138,7 +151,7 @@ height: 2px;
   right: 10px;
   height: 21px;
   width: 45px;
-  /*animation: accessin3 2s;*/
+/*  animation: accessin3 2s;*/
   cursor: pointer;
   color: #666666;
   text-align: center;
@@ -148,38 +161,69 @@ height: 2px;
 
 
 @media screen and (max-width: 520px) {
-#nav{
-  width: 230px;
+#nav{  
+  top: auto;
+  bottom: 0;
+  width: 300px;
   height: 86px;
 }
 
-#navbackground{
-  height: 86px;
+#navbackground{display: none;}
+
+#navbackground2{
+  display: block;
+  top: auto;
+  bottom: 0;
+  height: 80px;
+  box-shadow: rgba(0,0,0,0.16) 0 -2px 3px;
+  /*-ms-transform: rotate(180deg); /* IE 9 */
+    /*-webkit-transform: rotate(180deg); *//* Chrome, Safari, Opera */
+    /*transform: rotate(180deg);*/
+     -webkit-transition: all .5s cubic-bezier(.25,.46,.45,.94) .1s;
+    transition: all .5s cubic-bezier(.25,.46,.45,.94) .1s;
+    /*animation: accessin4 3s ease-in-out;*/
+}
+
+.title{
+  position: absolute;
+  top: 27px;
+  left: 0;
+  right: 0;
+
+}
+
+.title span{
+  display: none;
 }
 
 @keyframes accessin2 {
     0%{left: 65px;opacity: 0;}
     20%{left: 65px;opacity: 0;}
-    100% {left:5px;opacity: 1;}
+    100% {left:0px;opacity: 1;}
 }
 
 @keyframes accessin3 {
     0%{right: 65px;opacity: 0;}
     20%{right: 65px;opacity: 0;}
-    100% {right:8px;opacity: 1;}
+    100% {right:0px;opacity: 1;}
+}
+
+@keyframes accessin4 {
+    0%{opacity: 0;}
+    100% {opacity: 1;}
 }
 
 .menu.about{
   position: absolute;
   top:40px;
-  left: 5px;
+  left: 0;
 
 }
 
 .menu.work{
   position: absolute;
   top:40px;
-  right: 8px;
+  right: 0;
 
 }
 

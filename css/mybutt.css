@@ -1,4 +1,4 @@
-
+/*mybutttttttttttttttttttttttttttt*/
 #mybutt{
   position: fixed;
   bottom: 0;
@@ -9,27 +9,42 @@
 /*  border-top: .08em solid #444;
   border-bottom: 1px solid #444 outset;*/
 /*  opacity: 0.95;*/
+ -webkit-transition: all .5s cubic-bezier(.25,.46,.45,.94);
+    transition: all .5s cubic-bezier(.25,.46,.45,.94);
 }
 
 .mycopyright{
   position: absolute;
-  left: 0;
+  left: 10px;
   top: 0;
-  width: 120px;
+  width: 100px;
   height: 20px;
-  text-align: center;
+  /*text-align: center;*/
   /*border-right: .08em solid #444;*/
+  -webkit-transition: all 1.5s steps(25, end);
+    transition: all 1.5s steps(25, end);
+    overflow:hidden;
+    white-space: nowrap;
+cursor: default;
 }
 
 .mycontact{
   position: absolute;
-  left: 120px;
+  left: 100px;
   top: 0;
   width: 80px;
+  width: 100px;
   height: 20px;
   text-align: center;
+  /*text-align: center;*/
   /*border-right: .08em solid #444;*/
+  -webkit-transition: all 1.5s steps(25, end);
+    transition: all 1.5s steps(25, end);
+    overflow:hidden;
+    white-space: nowrap;
+cursor: default;
 }
+
 
 /*.mycopyright:hover{
   background: #444;
@@ -37,7 +52,6 @@
 
 .mycopyright a:hover{
   text-decoration: none;
-  color: black;
 }
 
 .mycontact a:hover{
@@ -45,17 +59,24 @@
   color: black;
 }
 
+
 .mycopyright .myrightfont, .mycontact .myrightfont{
   font-size: 8.5pt;
   vertical-align: 1.5px;
   /*line-height: 10px;*/
   color:#999;
+  text-transform: uppercase;
 }
+
+#mybutt:hover .mycopyright{
+  width: 330px;
+
+}
+
 
 .mycopyright .myrightfont .mycopyrightc{
   font-size: 8.5pt;
-  font-family: helvetica;
-  
+  cursor: pointer;
 }
 
 .mysharebuttom1{
@@ -129,8 +150,14 @@
 
 }
 
-@media screen and (max-width: 1000px) {
 
-#mybutt{position: fixed;}
+@media screen and (max-width: 520px) {
+
+#mybutt{
+  position: fixed;
+  top: 0;
+  bottom: auto;
+}
 
 }
+

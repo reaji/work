@@ -114,7 +114,7 @@ html, body{
 }
 
 * {
-   font-family: 'SFNS', helvetica;  
+   font-family: 'SFNS', -apple-system , helvetica;  
 }
 
 .headpic{
@@ -125,27 +125,34 @@ html, body{
 	margin: 45px auto 0;
 	text-align: center;
 	font-size: 60px;
+	font-weight: 700;
 /*	letter-spacing: -3px;*/
 	color: #1980FC;
 }
 
-#personas{
-	margin: 100px auto;
-}
 
-#ecosystem{
+#research{
 	margin: 50px auto;
 }
 
-#journeymap{
-	margin: 120px auto;
+
+#idea{
+	background: #f2f2f2;
+	/*border: 1px solid #e4e4e4;*/
+	padding: 40px 0;
+}
+
+#ux{
+	background: #f2f2f2;
+	/*border: 1px solid #e4e4e4;*/
+	padding: 40px 0;
 }
 
 .note1{
 	text-align: center;
 	margin: 0 auto;
-	color: grey;
-	font-size: 24px;
+	color: #95C1F6;
+	font-size: 16px;
 	font-weight: 400;
 }
 
@@ -175,25 +182,60 @@ html, body{
 
 .ecosystem{
 	display: block;
-	margin: 40px auto 0;
+	margin: 30px auto 0;
 	width: 750px;
 	max-width: 90%;
 }
 
 .journeymap{
 	display: block;
-	margin: 40px auto 0;
+	margin: 20px auto 0;
 	width: 850px;
 	max-width: 90%;
+}
+
+.imgrid{
+	text-align: center;
+	margin: 0 auto;
+	/*max-width: 750px;*/
+}
+
+.grid4{
+	display: inline-block;
+	left: 0;
+	right: 0;
+	width: 375px;
+	border: 1px solid black;
+	/*height: 375px;*/
+	text-align: center;
+	border: none;
+	margin: 20px 10px;
+	/*height: 375px;*/
+}
+
+.grid4.annotate{
+	text-align: left;
+	text-indent: 25px;
+}
+
+.grid4 img{
+	/*height: 100%;*/
+}
+
+.imgrid tr{
+	margin: 20px 0 0 0;
 }
 
 .description{
 	max-width: 750px;
 	padding: 0 25px;
 	font-size: 18px;
-	margin: 50px auto 50px;
-	color: #424242;
-	font-weight: 300;
+	color: #666666;
+	font-weight: 400;
+	line-height: 1.7;
+	max-width: 600px;
+	margin: 10px auto;
+	text-align: center;
 }
 
 .description .hilight{
@@ -201,7 +243,9 @@ html, body{
 }
 
 .description.mapdescription{
-	max-width: 600px;
+	margin: 50px auto 50px;
+	font-weight: 300;
+	text-align: left;
 }
 
 .description a{
@@ -219,15 +263,15 @@ html, body{
 	color: #1980FC;
 	text-align: center;
 	margin: 0 auto;
-	font-size: 32px;
-	font-weight: 600;
+	font-size: 36px;
+	font-weight: 700;
 }
 
 
 @media screen and (max-width: 500px) {
 
 .description{
-	font-size: 10px;
+	font-size: 16px;
 }
 
 }
