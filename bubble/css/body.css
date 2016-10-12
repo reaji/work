@@ -194,6 +194,10 @@ html, body{
 	max-width: 90%;
 }
 
+tbody{
+	margin-top: 100px;
+}
+
 .imgrid{
 	text-align: center;
 	margin: 0 auto;
@@ -204,6 +208,7 @@ html, body{
 	display: inline-block;
 	left: 0;
 	right: 0;
+	max-width: 375px;
 	width: 375px;
 	border: 1px solid black;
 	/*height: 375px;*/
@@ -215,7 +220,7 @@ html, body{
 
 .grid4.annotate{
 	text-align: left;
-	text-indent: 25px;
+	
 }
 
 .grid4 img{
@@ -224,6 +229,18 @@ html, body{
 
 .imgrid tr{
 	margin: 20px 0 0 0;
+
+}
+
+.imgingrid{
+	max-width: 350px;
+	/*width: 350px;*/
+	max-height: 410px;
+}
+
+th .hilight{
+	line-height: 3;
+	font-size: 19px;
 }
 
 .description{
@@ -272,6 +289,27 @@ html, body{
 
 .description{
 	font-size: 16px;
+}
+
+.tagline{
+	font-size: 24px;
+}
+
+.grid4{
+	width: auto;
+}
+
+.grid4.annotate .description.mapdescription{
+
+margin: auto;
+}
+
+}
+
+@media screen and (max-width: 374px) {
+
+.imgingrid{
+	max-width: 300px;
 }
 
 }
