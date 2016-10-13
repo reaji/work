@@ -121,6 +121,11 @@ html, body{
 	width: 100%;
 }
 
+.headpicm{
+	display: none;
+	width: 100%;
+}
+
 .protitle{
 	margin: 45px auto 0;
 	text-align: center;
@@ -303,6 +308,16 @@ th .hilight{
 
 margin: auto;
 }
+
+.headpic{
+
+	display: none;
+}
+
+.headpicm{
+	display: block;
+}
+
 
 }
 
