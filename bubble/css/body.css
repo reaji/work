@@ -211,14 +211,26 @@ html, body{
 	max-width: 90%;
 }
 
-tbody{
-	margin-top: 100px;
-}
-
 .imgrid{
 	text-align: center;
 	margin: 0 auto;
 	/*max-width: 750px;*/
+}
+
+
+.gallery{
+	display: none;
+	overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    white-space: nowrap;
+    max-width: 1800px;
+    margin: 40px auto 0;
+
+}
+
+.gallery div{
+	display: inline-block;
+	margin: 0 20px;
 }
 
 .grid4{
@@ -250,6 +262,7 @@ tbody{
 }
 
 .imgingrid{
+	display: inline-block;
 	max-width: 350px;
 	/*width: 350px;*/
 	max-height: 410px;
@@ -322,7 +335,11 @@ th .hilight{
 	margin: 20px auto;
 }
 
+.gallery{display: block;}
+#ui .imgrid{display: none;}
+
 }
+
 
 
 @media screen and (max-width: 500px) {
