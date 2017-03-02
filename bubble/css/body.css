@@ -1,15 +1,15 @@
 html, body{
 	width: 100%;
 	overflow-x:hidden;
-	margin: 0; 
-/*	background: #fff; 
-    background: -webkit-linear-gradient(#fff, #FAFAFA); 
-    background: -o-linear-gradient(#fff, #FAFAFA); 
-    background: -moz-linear-gradient(#fff, #FAFAFA); 
+	margin: 0;
+/*	background: #fff;
+    background: -webkit-linear-gradient(#fff, #FAFAFA);
+    background: -o-linear-gradient(#fff, #FAFAFA);
+    background: -moz-linear-gradient(#fff, #FAFAFA);
     background: linear-gradient(#fff, #FAFAFA); */
 }
 
-*::-webkit-scrollbar { 
+*::-webkit-scrollbar {
   display: none;
 }
 
@@ -69,14 +69,14 @@ html, body{
   src: url("../../assets/font/sf-compact-display-semibold-webfont.woff");
 }
 
-/** Bold */ 
+/** Bold */
 @font-face {
   font-family: "San Francisco";
   font-weight: 700;
   src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-bold-webfont.woff");
 }
 
-/** Bold */ 
+/** Bold */
 @font-face {
   font-family: "SFCD";
   font-weight: 700;
@@ -85,28 +85,28 @@ html, body{
 
 
 
-/** SF Regular*/ 
+/** SF Regular*/
 @font-face {
     font-family: "SFNS";
     font-weight: 100;
     src: url("../../assets/font/sf-ui-display-ultralight-webfont.woff");
 }
 
-/** SF Think*/ 
+/** SF Think*/
 @font-face {
     font-family: "SFNS";
     font-weight: 200;
     src: url("../../assets/font/sf-ui-display-thin-webfont.woff");
 }
 
-/** SF light*/ 
+/** SF light*/
 @font-face {
     font-family: "SFNS";
     font-weight: 300;
     src: url("../../assets/font/sf-ui-display-light-webfont.woff");
 }
 
-/** SF Regular*/ 
+/** SF Regular*/
 @font-face {
     font-family: "SFNS";
     font-weight: 400;
@@ -114,7 +114,7 @@ html, body{
 }
 
 * {
-   font-family: 'SFNS', -apple-system , helvetica;  
+   font-family: 'SFNS', -apple-system , helvetica;
 }
 
 .headpic{
@@ -249,7 +249,7 @@ html, body{
 
 .grid4.annotate{
 	text-align: left;
-	
+
 }
 
 .grid4 img{
@@ -262,6 +262,13 @@ html, body{
 }
 
 .imgingrid{
+	display: inline-block;
+	max-width: 350px;
+	/*width: 350px;*/
+	max-height: 410px;
+}
+
+.imgingridfull{
 	display: inline-block;
 	max-width: 350px;
 	/*width: 350px;*/
@@ -380,9 +387,3 @@ margin: auto;
 }
 
 }
-
-
-
-
-
-
