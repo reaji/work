@@ -292,9 +292,13 @@ th .hilight{
 }
 
 .description.mapdescription{
-	margin: 50px auto 50px;
+	margin: 25px auto 50px;
 	font-weight: 300;
 	text-align: left;
+}
+
+#appendix .description.mapdescription{
+	margin: 25px auto 0;
 }
 
 .description a{
