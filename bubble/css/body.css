@@ -268,12 +268,7 @@ html, body{
 	max-height: 410px;
 }
 
-.imgingridfull{
-	display: inline-block;
-	max-width: 350px;
-	/*width: 350px;*/
-	max-height: 410px;
-}
+
 
 th .hilight{
 	line-height: 3;
@@ -344,7 +339,8 @@ th .hilight{
 
 .gallery{display: block;}
 #ui .imgrid{display: none;}
-
+#research .imgrid{display: none;}
+#research .imgingrid{max-width: 250px;}
 }
 
 
