@@ -62,17 +62,7 @@ html, body{
 
 /*navvvvvvvvvvvvvvvvvvvvvvvvv*/
 
-#nav{
-	position: fixed;
-	top:10px;
-  right: 0;
-  left: 0;
-  z-index: 5;
-  margin: 0 auto;
-  width: 500px;
-  height: 43px;
-  z-index: 5;
-}
+
 
 .readmore{
   max-width: 630px;
@@ -98,18 +88,7 @@ html, body{
 display: none;
 }
 
-.title{
-	font-size: 26pt;
-	font-weight: 700;
-	text-align: center;
-	letter-spacing: 6px;
-	margin: 0 auto;
-  max-width: 230px;
-  cursor: pointer;
-  color: white;
-  font-family: 'San Francisco', sans-serif;
-  text-indent: 6px;
-}
+
 
 .headpic{
   display: block;
@@ -203,59 +182,9 @@ p.tagline3{
 
 }
 
-a{
-  text-decoration: none;
-  color: white;
-}
-
-a:hover{
-  color: grey;
-}
-
-.manu{
-    display: block;
-    font-size: 1.17em;
-    -webkit-margin-before: 1em;
-    -webkit-margin-after: 1em;
-    -webkit-margin-start: 0px;
-    -webkit-margin-end: 0px;
-    font-size: 12pt;
-    font-weight: 500;
-    margin: 0 auto;
-    letter-spacing: 0.6px;
-    color: white;
-    font-family: 'San Francisco', sans-serif;
-}
-
-.manu.about{
-  position: absolute;
-  top:12px;
-  left: 10px;
-  height: 21px;
-  cursor: pointer;
-  text-align: right;
-}
-
-.manu.about:hover{
-  border-bottom: 1px solid #ccc;
-  color: #ccc;
-}
-
-
-.manu.works:hover{
-  border-bottom: 1px solid #ccc;
-  color: #ccc;
-}
 
 
 
-.manu.works{
-  position: absolute;
-  top:12px;
-  right: 10px;
-  height: 21px;
-  cursor: pointer;
-}
 /*navvvvvvvvvvvvvvvvvvvvvvvvv ennnnnnnnds*/
 
 .showcase{
