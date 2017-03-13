@@ -5,7 +5,7 @@
 #navbackground{
   position: fixed;
   top:0;
-  z-index: +1;
+  z-index: +3;
   width: 100%;
   height: 62px;
   opacity: 0;
@@ -19,7 +19,7 @@
 #navbackground2{  
   display: none;
 position: fixed;
-  z-index: +1;
+  z-index: +3;
   width: 100%;
 
   background: #191A1E;
@@ -36,7 +36,7 @@ position: fixed;
   width: 500px;
 /*  background:yellow;*/
   height: 43px;
-  z-index: +3;
+  z-index: +4;
 }
 
 @keyframes accessin {
