@@ -44,6 +44,14 @@
   display: none;
 }
 
+::-moz-selection { /* Code for Firefox */
+    background: #a18cd1;
+}
+
+::selection {
+    background:#a18cd1;
+}
+
 html, body{
 	margin: 0;
   height: auto;
