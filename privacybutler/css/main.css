@@ -73,7 +73,7 @@ html, body{
   font-size: 18px;
   color: #aaa;
   font-weight: 400;
-  line-height: 1.7;
+  line-height: 1.5;
   max-width: 600px;
   margin: 10px auto 30px;
   /*text-align: center;*/
@@ -108,10 +108,13 @@ html, body{
 
 #impact{
   padding: 40px 0;
+  margin-top: -22%;
+
 }
 
 #experience{
   padding: 40px 0;
+  background: #464646;
 }
 
 .imgrid{
@@ -129,13 +132,30 @@ html, body{
   max-width: 450px;
 }
 
-#ui{
+#presentation{
   padding: 40px 0;
-  background: #212121;
+  /*background: #212121;*/
 }
 
 #appendix{
   padding: 40px 0;
+}
+
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  /*padding-top: 25px;*/
+  height: 0;
+  max-width: 60%;
+  margin: 0 auto;
+}
+
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 60%;
 }
 
 .gallery{
@@ -206,7 +226,7 @@ max-width: 220px;
 
 
 th .hilight{
-  line-height: 3;
+  line-height: 1;
   font-size: 19px;
 }
 
@@ -335,13 +355,8 @@ p.tagline3{
 
 }
 
-
-
-
-/*navvvvvvvvvvvvvvvvvvvvvvvvv ennnnnnnnds*/
-
 .showcase{
-  width: 100%;
+  width: 90%;
   margin: 0 auto;
   display: block;
 }
@@ -351,150 +366,6 @@ p.tagline3{
   max-width: 100%;
   margin: 0 auto;
   display: block;
-}
-
-
-.showcasemap{
-  max-width: 1000px;
-  margin: 0 auto;
-  display: block;
-}
-
-.smshowcase{
-  max-width: 650px;
-  margin: 80px auto;
-  display: block;
-}
-
-.character{
-  max-width: 300px;
-  display: inline-block;
-  vertical-align: middle;
-}
-
-.characterds{
-  display: inline-block;
-  max-width: 300px;
-  vertical-align: middle;
-  padding: 0 0 0 40px;
-  font-weight: 200;
-}
-
-.characterds span{
-  font-weight: 600;
-  font-size: 18pt;
-}
-
-.comp{
-  height: 10px;
-}
-
-
-
-#phone{
-  height: 400px;
-  padding: 50px 50px;
-  margin-bottom: 30px;
-}
-
-
-
-#map {
-  position: relative;
-  /*top: -28px;*/
-  right: 0;
-    width: 100%;
-    height: 500px;
-}
-
-@keyframes myfly {
-    from {left:-15%;}
-    to {left:115%;}
-}
-
-.myflyanime{
-  position: absolute;
-  z-index: 1;
-  top:200px;
-  left:-15%;
-  width: 150px;
-  -webkit-filter: blur(6px);
-    animation: myfly 10s linear 5s infinite;
-}
-
-@keyframes myradio {
-    0% {right:-300px;}
-    20% {right: 10px;}
-    75%{right: 10px;}
-    100%{right: -300px;}
-}
-
-@keyframes myradio {
-    0% {right:-300px;}
-    20% {right: 10px;}
-    75%{right: 10px;}
-    100%{right: -300px;}
-}
-
-.localradio{
-  position: absolute;
-  z-index: 1;
-  top:30px;
-  right: -300px;
-  width: 20%;
-  min-width: 200px;
-  animation: myradio 10s ease-in-out 5s infinite;
-}
-
-.localpromote{
-  position: absolute;
-  z-index: 1;
-  top:30px;
-  right: -300px;
-  width: 20%;
-  min-width: 200px;
-  animation: myradio 10s ease-in-out 5s infinite;
-}
-
-.mapcontain{
-  position: relative;
-  margin: 30px 0;
-  right: 0;
-  width: 100%;
-  height: 500px;
-}
-
-.nointeract{
-  position: absolute;
-  background: #191A1E;
-  opacity: 0;
-  width: 100%;
-  height: 100%;
-  z-index: 2;
-    -webkit-transition-duration: 1.2s; /* Safari */
-    transition-duration: 1.2s;
-}
-
-.nointeract h1{
-position: absolute;
-top: 45%;
-left: 0;
-right: 0;
-text-align: center;
-margin: auto auto;
-padding: 0 20px;
-line-height: 100%;
-}
-
-.nointeract span{
-  font-weight: 400;
-  font-size: 18pt;
-}
-
-.nointeract:hover{
-  opacity: 0.8;
-    -webkit-transition-duration: 1.2s; /* Safari */
-    transition-duration: 1.2s;
 }
 
 h1{
