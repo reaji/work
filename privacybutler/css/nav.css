@@ -11,7 +11,7 @@
   opacity: 0;
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
-  background: rgba(255, 255, 255, 0.85);
+  background: rgba(48, 48, 48, 0.85);
   -webkit-transition: all .5s cubic-bezier(.25,.46,.45,.94);
     transition: all .5s cubic-bezier(.25,.46,.45,.94);
 
@@ -24,7 +24,9 @@ position: fixed;
   z-index: +3;
   width: 100%;
 
-  background: #303030;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  background: rgba(48, 48, 48, 0.85);
   -webkit-transition: all .5s cubic-bezier(.25,.46,.45,.94);
     transition: all .5s cubic-bezier(.25,.46,.45,.94);}
 
